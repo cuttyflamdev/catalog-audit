@@ -1,8 +1,8 @@
 import { graphql } from "./shopify.js";
 
-const query = `
-  {
-    products(first: 50) {
+const query = /* GraphQL */ `
+  query ($first: Int!, $cursor: String) {
+    products(first: $first, after: $cursor) {
         edges {
             node {
                 id
@@ -19,22 +19,71 @@ const query = `
                 }
             }
         }
+        pageInfo {
+          hasNextPage
+          endCursor
+        }
     }
   }
 `;
 
-async function main() {
-    const { data, extensions } = await graphql(query);
-    console.log(JSON.stringify(data, null, 2));
-    const requestedQueryCost = extensions.cost.requestedQueryCost;
-    const actualyQueryCost = extensions.cost.actualQueryCost;
-    const throttleStatus = extensions.cost.throttleStatus;
-    console.log(`Requested query cost: ${requestedQueryCost}`);
-    console.log(`Actual query cost: ${actualyQueryCost}`);
-    console.log(`Throttle status: ${JSON.stringify(throttleStatus, null, 2)}`);
+function getCounts(products) {
+  const productCount = products.length;
+  let variantCount = 0;
+  products.forEach(product => {
+    variantCount += product.variants.edges.length;
+  });
+  return { productCount, variantCount};
 }
 
-main().catch((error) => {
+async function fetchAllProducts(pageSize) {
+  const products = [];
+  let cursor = null;
+  let estimate = 0;
+  let pageNumber = 0;
+
+  while (true) {
+    pageNumber += 1;
+    const {data, extensions} = await graphql(query, { first: pageSize, cursor });
+    const page = data.products;
+    const requestedQueryCost = extensions.cost.requestedQueryCost;
+    const actualQueryCost = extensions.cost.actualQueryCost;
+    const throttleStatus = extensions.cost.throttleStatus;
+    estimate = requestedQueryCost;
+    console.log(`Page number: ${pageNumber}`);
+    console.log(`Number of products: ${page.edges.length} `);
+    console.log(`Actual query cost: ${actualQueryCost}`);
+    console.log(`Currently available: ${throttleStatus.currentlyAvailable}`);
+    products.push(...page.edges.map((edge) => edge.node));
+    if (!page.pageInfo.hasNextPage) {
+      break;
+    }
+    cursor = page.pageInfo.endCursor;
+    const wait = secondsToWait(throttleStatus, estimate);
+    await sleep(wait);
+  }
+
+  const { productCount, variantCount } = getCounts(products);
+  console.log(`Product count: ${productCount}`);
+  console.log(`Variant count: ${variantCount}`);
+
+  return products;
+}
+
+function sleep(seconds) {
+  return new Promise((resolve) => {
+    setTimeout(resolve, seconds * 1000);
+  })
+}
+
+function secondsToWait(throttleStatus, needed) {
+  if (throttleStatus.currentlyAvailable >= needed)
+    return 0;
+  else
+    return (needed - throttleStatus.currentlyAvailable) / throttleStatus.restoreRate
+}
+
+fetchAllProducts(5).catch((error) => {
     console.error(error);
     process.exitCode = 1;
 });
