@@ -1,3 +1,4 @@
+import { error } from "node:console";
 import { graphql } from "./shopify.js";
 
 const query = /* GraphQL */ `
@@ -8,14 +9,18 @@ const query = /* GraphQL */ `
                 id
                 title
                 status
-                variants(first: 20) {
+                variants(first: 250) {
                   edges {
                     node {
                       id
                       sku
                       inventoryQuantity
                     }  
-                  }
+                  } 
+                  pageInfo {
+                    hasNextPage
+                    endCursor
+                  }  
                 }
             }
         }
@@ -52,8 +57,14 @@ async function fetchAllProducts(pageSize) {
     estimate = requestedQueryCost;
     console.log(`Page number: ${pageNumber}`);
     console.log(`Number of products: ${page.edges.length} `);
+    console.log(`Requested query cost: ${requestedQueryCost}`);
     console.log(`Actual query cost: ${actualQueryCost}`);
     console.log(`Currently available: ${throttleStatus.currentlyAvailable}`);
+    page.edges.forEach(edge => {
+      if (edge.node.variants.pageInfo.hasNextPage) {
+        throw new Error(`Variants of product ${edge.node.title} were cutoff.`);
+      }
+    })
     products.push(...page.edges.map((edge) => edge.node));
     if (!page.pageInfo.hasNextPage) {
       break;
@@ -83,7 +94,7 @@ function secondsToWait(throttleStatus, needed) {
     return (needed - throttleStatus.currentlyAvailable) / throttleStatus.restoreRate
 }
 
-fetchAllProducts(5).catch((error) => {
+fetchAllProducts(250).catch((error) => {
     console.error(error);
     process.exitCode = 1;
 });
