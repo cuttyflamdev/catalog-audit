@@ -1,0 +1,450 @@
+Title,URL handle,Description,Vendor,Type,Tags,Published on online store,Status,SKU,Option1 name,Option1 value,Option2 name,Option2 value,Price,Inventory tracker,Inventory quantity,Continue selling when out of stock,Requires shipping,Fulfillment service
+Alpine Gloves,audit-001,<p>Alpine Gloves from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,,Title,Default Title,,,78.00,shopify,64,DENY,TRUE,manual
+Canyon Scarf,audit-002,<p>Canyon Scarf from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-002,Title,Default Title,,,118.00,shopify,92,DENY,TRUE,manual
+Canyon Tee,audit-003,<p>Canyon Tee from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Tops,"audit-seed, tops",TRUE,active,AUD-003,Title,Default Title,,,99.00,shopify,117,DENY,TRUE,manual
+Summit Hoodie,audit-004,<p>Summit Hoodie from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Tops,"audit-seed, tops",TRUE,active,AUD-004,Title,Default Title,,,86.00,shopify,89,DENY,TRUE,manual
+Classic Vest,audit-005,<p>Classic Vest from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-005,Title,Default Title,,,22.00,shopify,18,DENY,TRUE,manual
+Dune Tote,audit-006,,Pacific Outfitters,Bags,"audit-seed, bags",TRUE,active,AUD-006,Title,Default Title,,,111.00,shopify,23,DENY,TRUE,manual
+Coastal Belt,audit-007,<p>Coastal Belt from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-007,Title,Default Title,,,115.00,shopify,127,DENY,TRUE,manual
+Dune Cap,audit-008,,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-008-S,Size,S,,,111.00,shopify,80,DENY,TRUE,manual
+,audit-008,,,,,,,AUD-008-M,Size,M,,,45.00,shopify,58,DENY,TRUE,manual
+Ridge Scarf,audit-009,<p>Ridge Scarf from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-009,Title,Default Title,,,33.00,shopify,84,DENY,TRUE,manual
+Classic Tee,audit-010,<p>Classic Tee from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Tops,"audit-seed, tops",TRUE,active,AUD-010,Title,Default Title,,,67.00,shopify,130,DENY,TRUE,manual
+Alpine Scarf,audit-011,<p>Alpine Scarf from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-011-S,Size,S,,,83.00,shopify,85,DENY,TRUE,manual
+,audit-011,,,,,,,AUD-011-M,Size,M,,,53.00,shopify,127,DENY,TRUE,manual
+,audit-011,,,,,,,AUD-011-L,Size,L,,,63.00,shopify,81,DENY,TRUE,manual
+Classic Cap,audit-012,,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-012,Title,Default Title,,,34.00,shopify,51,DENY,TRUE,manual
+Trail Socks,audit-013,<p>Trail Socks from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-013,Title,Default Title,,,115.00,shopify,119,DENY,TRUE,manual
+Classic Tote,audit-014,<p>Classic Tote from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,AUD-014-S,Size,S,,,40.00,shopify,90,DENY,TRUE,manual
+,audit-014,,,,,,,AUD-014-M,Size,M,,,109.00,shopify,90,DENY,TRUE,manual
+,audit-014,,,,,,,AUD-014-L,Size,L,,,64.00,shopify,98,DENY,TRUE,manual
+Ridge Cap,audit-015,<p>Ridge Cap from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-015,Title,Default Title,,,39.00,shopify,40,DENY,TRUE,manual
+Classic Socks,audit-016,<p>Classic Socks from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-016,Title,Default Title,,,68.00,shopify,146,DENY,TRUE,manual
+Summit Backpack,audit-017,<p>Summit Backpack from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bags,"audit-seed, bags",TRUE,active,AUD-017,Title,Default Title,,,96.00,shopify,33,DENY,TRUE,manual
+Alpine Socks,audit-018,<p>Alpine Socks from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-018-S,Size,S,,,67.00,shopify,69,DENY,TRUE,manual
+,audit-018,,,,,,,AUD-018-M,Size,M,,,54.00,shopify,31,DENY,TRUE,manual
+,audit-018,,,,,,,AUD-018-L,Size,L,,,52.00,shopify,69,DENY,TRUE,manual
+Harbor Belt,audit-019,<p>Harbor Belt from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-019,Title,Default Title,,,119.00,shopify,114,DENY,TRUE,manual
+Summit Beanie,audit-020,<p>Summit Beanie from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-020,Title,Default Title,,,45.00,shopify,38,DENY,TRUE,manual
+Trail Vest,audit-021,<p>Trail Vest from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-021,Title,Default Title,,,81.00,shopify,69,DENY,TRUE,manual
+Urban Vest,audit-022,<p>Urban Vest from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-022,Title,Default Title,,,41.00,shopify,85,DENY,TRUE,manual
+Desert Shorts,audit-023,,Pacific Outfitters,Bottoms,"audit-seed, bottoms",TRUE,active,AUD-023,Title,Default Title,,,30.00,shopify,144,DENY,TRUE,manual
+Prairie Shorts,audit-024,<p>Prairie Shorts from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bottoms,"audit-seed, bottoms",TRUE,active,AUD-024-S,Size,S,,,110.00,shopify,32,DENY,TRUE,manual
+,audit-024,,,,,,,AUD-024-M,Size,M,,,46.00,shopify,76,DENY,TRUE,manual
+,audit-024,,,,,,,AUD-024-L,Size,L,,,85.00,shopify,118,DENY,TRUE,manual
+Desert Backpack,audit-025,<p>Desert Backpack from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bags,"audit-seed, bags",TRUE,active,AUD-025-S,Size,S,,,93.00,shopify,103,DENY,TRUE,manual
+,audit-025,,,,,,,AUD-025-M,Size,M,,,63.00,shopify,6,DENY,TRUE,manual
+Harbor Socks,audit-026,<p>Harbor Socks from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-026,Title,Default Title,,,82.00,shopify,85,DENY,TRUE,manual
+Ridge Tote,audit-027,<p>Ridge Tote from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,AUD-027-S,Size,S,,,98.00,shopify,105,DENY,TRUE,manual
+,audit-027,,,,,,,AUD-027-M,Size,M,,,55.00,shopify,25,DENY,TRUE,manual
+Alpine Beanie,audit-028,<p>Alpine Beanie from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-028,Title,Default Title,,,98.00,shopify,127,DENY,TRUE,manual
+Urban Belt,audit-029,<p>Urban Belt from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-029,Title,Default Title,,,98.00,shopify,140,DENY,TRUE,manual
+Desert Belt,audit-030,<p>Desert Belt from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-030,Title,Default Title,,,78.00,shopify,54,DENY,TRUE,manual
+Harbor Jacket,audit-031,<p>Harbor Jacket from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-031,Title,Default Title,,,66.00,shopify,91,DENY,TRUE,manual
+Dune Beanie,audit-032,<p>Dune Beanie from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-032,Title,Default Title,,,94.00,shopify,85,DENY,TRUE,manual
+Harbor Cap,audit-033,<p>Harbor Cap from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-033,Title,Default Title,,,19.00,shopify,103,DENY,TRUE,manual
+Trail Beanie,audit-034,<p>Trail Beanie from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-034,Title,Default Title,,,104.00,shopify,45,DENY,TRUE,manual
+Harbor Bottle,audit-035,<p>Harbor Bottle from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-035,Title,Default Title,,,13.00,shopify,69,DENY,TRUE,manual
+Dune Scarf,audit-036,<p>Dune Scarf from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-036-S,Size,S,,,83.00,shopify,65,DENY,TRUE,manual
+,audit-036,,,,,,,AUD-036-M,Size,M,,,28.00,shopify,86,DENY,TRUE,manual
+Dune Gloves,audit-037,<p>Dune Gloves from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-037,Title,Default Title,,,86.00,shopify,107,DENY,TRUE,manual
+Desert Cap,audit-038,<p>Desert Cap from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-038-S,Size,S,,,118.00,shopify,122,DENY,TRUE,manual
+,audit-038,,,,,,,AUD-038-M,Size,M,,,120.00,shopify,124,DENY,TRUE,manual
+,audit-038,,,,,,,AUD-038-L,Size,L,,,55.00,shopify,4,DENY,TRUE,manual
+,audit-038,,,,,,,AUD-038-XL,Size,XL,,,16.00,shopify,57,DENY,TRUE,manual
+Urban Scarf,audit-039,<p>Urban Scarf from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-039,Title,Default Title,,,93.00,shopify,31,DENY,TRUE,manual
+Coastal Jacket,audit-040,<p>Coastal Jacket from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-040,Title,Default Title,,,96.00,shopify,0,DENY,TRUE,manual
+Summit Vest,audit-041,<p>Summit Vest from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-041,Title,Default Title,,,53.00,shopify,5,DENY,TRUE,manual
+Harbor Shorts,audit-042,<p>Harbor Shorts from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Bottoms,"audit-seed, bottoms",TRUE,active,,Title,Default Title,,,111.00,shopify,54,DENY,TRUE,manual
+Ridge Vest,audit-043,<p>Ridge Vest from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-043,Title,Default Title,,,113.00,shopify,118,DENY,TRUE,manual
+Harbor Tee,audit-044,<p>Harbor Tee from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Tops,"audit-seed, tops",TRUE,active,AUD-044-S,Size,S,,,77.00,shopify,71,DENY,TRUE,manual
+,audit-044,,,,,,,AUD-044-M,Size,M,,,91.00,shopify,95,DENY,TRUE,manual
+,audit-044,,,,,,,AUD-044-L,Size,L,,,22.00,shopify,143,DENY,TRUE,manual
+Dune Jacket,audit-045,<p>Dune Jacket from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-045,Title,Default Title,,,100.00,shopify,49,DENY,TRUE,manual
+Ridge Bottle,audit-046,<p>Ridge Bottle from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,,Title,Default Title,,,80.00,shopify,3,DENY,TRUE,manual
+Prairie Tee,audit-047,<p>Prairie Tee from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Tops,"audit-seed, tops",TRUE,active,AUD-047,Title,Default Title,,,24.00,shopify,40,DENY,TRUE,manual
+Summit Jacket,audit-048,<p>Summit Jacket from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-048,Title,Default Title,,,54.00,shopify,57,DENY,TRUE,manual
+Urban Socks,audit-049,<p>Urban Socks from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-049,Title,Default Title,,,71.00,shopify,53,DENY,TRUE,manual
+Trail Scarf,audit-050,<p>Trail Scarf from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-050,Title,Default Title,,,89.00,shopify,44,DENY,TRUE,manual
+Ridge Gloves,audit-051,<p>Ridge Gloves from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-051,Title,Default Title,,,102.00,shopify,80,DENY,TRUE,manual
+Summit Socks,audit-052,<p>Summit Socks from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-052,Title,Default Title,,,22.00,shopify,146,DENY,TRUE,manual
+Canyon Cap,audit-053,<p>Canyon Cap from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-053,Title,Default Title,,,65.00,shopify,134,DENY,TRUE,manual
+Ridge Jacket,audit-054,<p>Ridge Jacket from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-054,Title,Default Title,,,99.00,shopify,144,DENY,TRUE,manual
+Canyon Belt,audit-055,<p>Canyon Belt from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-055-S,Size,S,,,29.00,shopify,28,DENY,TRUE,manual
+,audit-055,,,,,,,AUD-055-M,Size,M,,,15.00,shopify,70,DENY,TRUE,manual
+Summit Bottle,audit-056,<p>Summit Bottle from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-056,Title,Default Title,,,65.00,shopify,12,DENY,TRUE,manual
+Ridge Shorts,audit-057,<p>Ridge Shorts from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bottoms,"audit-seed, bottoms",TRUE,active,AUD-057,Title,Default Title,,,35.00,shopify,141,DENY,TRUE,manual
+Classic Belt,audit-058,<p>Classic Belt from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-058,Title,Default Title,,,105.00,shopify,132,DENY,TRUE,manual
+Trail Tote,audit-059,<p>Trail Tote from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bags,"audit-seed, bags",TRUE,active,AUD-059,Title,Default Title,,,41.00,shopify,121,DENY,TRUE,manual
+Urban Beanie,audit-060,<p>Urban Beanie from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-060,Title,Default Title,,,96.00,shopify,88,DENY,TRUE,manual
+Desert Vest,audit-061,<p>Desert Vest from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-061,Title,Default Title,,,55.00,shopify,89,DENY,TRUE,manual
+Harbor Hoodie,audit-062,<p>Harbor Hoodie from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Tops,"audit-seed, tops",TRUE,active,AUD-062,Title,Default Title,,,52.00,shopify,123,DENY,TRUE,manual
+Canyon Socks,audit-063,<p>Canyon Socks from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-063-S,Size,S,,,44.00,shopify,126,DENY,TRUE,manual
+,audit-063,,,,,,,AUD-063-M,Size,M,,,53.00,shopify,65,DENY,TRUE,manual
+,audit-063,,,,,,,AUD-063-L,Size,L,,,16.00,shopify,126,DENY,TRUE,manual
+,audit-063,,,,,,,,Size,XL,,,29.00,shopify,6,DENY,TRUE,manual
+Dune Belt,audit-064,<p>Dune Belt from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-064,Title,Default Title,,,73.00,shopify,94,DENY,TRUE,manual
+Alpine Tote,audit-065,<p>Alpine Tote from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Bags,"audit-seed, bags",TRUE,active,AUD-065,Title,Default Title,,,44.00,shopify,120,DENY,TRUE,manual
+Classic Gloves,audit-066,<p>Classic Gloves from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-066,Title,Default Title,,,37.00,shopify,95,DENY,TRUE,manual
+Classic Backpack,audit-067,<p>Classic Backpack from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,AUD-067-S,Size,S,,,47.00,shopify,132,DENY,TRUE,manual
+,audit-067,,,,,,,AUD-067-M,Size,M,,,119.00,shopify,103,DENY,TRUE,manual
+,audit-067,,,,,,,AUD-067-L,Size,L,,,50.00,shopify,56,DENY,TRUE,manual
+,audit-067,,,,,,,AUD-067-XL,Size,XL,,,86.00,shopify,14,DENY,TRUE,manual
+Urban Hoodie,audit-068,<p>Urban Hoodie from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Tops,"audit-seed, tops",TRUE,active,AUD-068-S,Size,S,,,116.00,shopify,106,DENY,TRUE,manual
+,audit-068,,,,,,,AUD-068-M,Size,M,,,20.00,shopify,131,DENY,TRUE,manual
+,audit-068,,,,,,,AUD-068-L,Size,L,,,99.00,shopify,137,DENY,TRUE,manual
+Urban Tote,audit-069,<p>Urban Tote from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bags,"audit-seed, bags",TRUE,active,AUD-069,Title,Default Title,,,110.00,shopify,77,DENY,TRUE,manual
+Prairie Socks,audit-070,<p>Prairie Socks from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-070-S,Size,S,,,73.00,shopify,24,DENY,TRUE,manual
+,audit-070,,,,,,,AUD-070-M,Size,M,,,77.00,shopify,134,DENY,TRUE,manual
+,audit-070,,,,,,,AUD-070-L,Size,L,,,88.00,shopify,84,DENY,TRUE,manual
+Summit Scarf,audit-071,<p>Summit Scarf from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-071-S,Size,S,,,74.00,shopify,82,DENY,TRUE,manual
+,audit-071,,,,,,,AUD-071-M,Size,M,,,96.00,shopify,87,DENY,TRUE,manual
+Alpine Jacket,audit-072,<p>Alpine Jacket from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-072,Title,Default Title,,,58.00,shopify,47,DENY,TRUE,manual
+Alpine Belt,audit-073,<p>Alpine Belt from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,,Title,Default Title,,,21.00,shopify,144,DENY,TRUE,manual
+Desert Hoodie,audit-074,<p>Desert Hoodie from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Tops,"audit-seed, tops",TRUE,active,AUD-074,Title,Default Title,,,114.00,shopify,45,DENY,TRUE,manual
+Desert Gloves,audit-075,<p>Desert Gloves from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-075,Title,Default Title,,,109.00,shopify,66,DENY,TRUE,manual
+Urban Shorts,audit-076,<p>Urban Shorts from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bottoms,"audit-seed, bottoms",TRUE,active,AUD-076,Title,Default Title,,,79.00,shopify,134,DENY,TRUE,manual
+Desert Socks,audit-077,<p>Desert Socks from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-077-S,Size,S,,,61.00,shopify,28,DENY,TRUE,manual
+,audit-077,,,,,,,,Size,M,,,89.00,shopify,55,DENY,TRUE,manual
+,audit-077,,,,,,,AUD-077-L,Size,L,,,15.00,shopify,119,DENY,TRUE,manual
+Canyon Backpack,audit-078,<p>Canyon Backpack from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bags,"audit-seed, bags",TRUE,active,AUD-078,Title,Default Title,,,42.00,shopify,54,DENY,TRUE,manual
+Urban Gloves,audit-079,<p>Urban Gloves from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-079-S,Size,S,,,66.00,shopify,131,DENY,TRUE,manual
+,audit-079,,,,,,,AUD-079-M,Size,M,,,79.00,shopify,33,DENY,TRUE,manual
+Coastal Scarf,audit-080,<p>Coastal Scarf from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-080,Title,Default Title,,,77.00,shopify,55,DENY,TRUE,manual
+Alpine Cap,audit-081,<p>Alpine Cap from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-081,Title,Default Title,,,113.00,shopify,70,DENY,TRUE,manual
+Coastal Bottle,audit-082,<p>Coastal Bottle from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-082-S,Size,S,,,111.00,shopify,126,DENY,TRUE,manual
+,audit-082,,,,,,,AUD-082-M,Size,M,,,29.00,shopify,144,DENY,TRUE,manual
+Prairie Beanie,audit-083,<p>Prairie Beanie from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-083-S,Size,S,,,98.00,shopify,84,DENY,TRUE,manual
+,audit-083,,,,,,,AUD-083-M,Size,M,,,58.00,shopify,101,DENY,TRUE,manual
+,audit-083,,,,,,,AUD-083-L,Size,L,,,80.00,shopify,139,DENY,TRUE,manual
+,audit-083,,,,,,,AUD-083-XL,Size,XL,,,36.00,shopify,39,DENY,TRUE,manual
+Trail Backpack,audit-084,<p>Trail Backpack from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Bags,"audit-seed, bags",TRUE,active,AUD-084,Title,Default Title,,,89.00,shopify,142,DENY,TRUE,manual
+Urban Backpack,audit-085,<p>Urban Backpack from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,AUD-085,Title,Default Title,,,102.00,shopify,40,DENY,TRUE,manual
+Prairie Backpack,audit-086,<p>Prairie Backpack from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,AUD-086,Title,Default Title,,,105.00,shopify,37,DENY,TRUE,manual
+Trail Gloves,audit-087,<p>Trail Gloves from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-087,Title,Default Title,,,28.00,shopify,147,DENY,TRUE,manual
+Coastal Gloves,audit-088,<p>Coastal Gloves from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-088-S,Size,S,,,19.00,shopify,9,DENY,TRUE,manual
+,audit-088,,,,,,,AUD-088-M,Size,M,,,47.00,shopify,77,DENY,TRUE,manual
+,audit-088,,,,,,,AUD-088-L,Size,L,,,116.00,shopify,46,DENY,TRUE,manual
+,audit-088,,,,,,,,Size,XL,,,29.00,shopify,69,DENY,TRUE,manual
+Dune Socks,audit-089,<p>Dune Socks from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-089-S,Size,S,,,81.00,shopify,92,DENY,TRUE,manual
+,audit-089,,,,,,,AUD-089-M,Size,M,,,28.00,shopify,118,DENY,TRUE,manual
+,audit-089,,,,,,,AUD-089-L,Size,L,,,33.00,shopify,48,DENY,TRUE,manual
+,audit-089,,,,,,,AUD-089-XL,Size,XL,,,100.00,shopify,14,DENY,TRUE,manual
+Dune Shorts,audit-090,<p>Dune Shorts from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Bottoms,"audit-seed, bottoms",TRUE,active,AUD-090,Title,Default Title,,,108.00,shopify,48,DENY,TRUE,manual
+Classic Scarf,audit-091,<p>Classic Scarf from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-091,Title,Default Title,,,99.00,shopify,40,DENY,TRUE,manual
+Ridge Backpack,audit-092,<p>Ridge Backpack from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,,Title,Default Title,,,64.00,shopify,126,DENY,TRUE,manual
+Harbor Backpack,audit-093,<p>Harbor Backpack from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,AUD-093,Title,Default Title,,,81.00,shopify,8,DENY,TRUE,manual
+Prairie Gloves,audit-094,<p>Prairie Gloves from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,,Title,Default Title,,,50.00,shopify,57,DENY,TRUE,manual
+Alpine Backpack,audit-095,<p>Alpine Backpack from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bags,"audit-seed, bags",TRUE,active,AUD-095,Title,Default Title,,,77.00,shopify,94,DENY,TRUE,manual
+Trail Bottle,audit-096,<p>Trail Bottle from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-096,Title,Default Title,,,81.00,shopify,24,DENY,TRUE,manual
+Prairie Tote,audit-097,<p>Prairie Tote from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,AUD-097-S,Size,S,,,71.00,shopify,105,DENY,TRUE,manual
+,audit-097,,,,,,,AUD-097-M,Size,M,,,31.00,shopify,84,DENY,TRUE,manual
+,audit-097,,,,,,,AUD-097-L,Size,L,,,30.00,shopify,131,DENY,TRUE,manual
+Alpine Vest,audit-098,<p>Alpine Vest from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-098,Title,Default Title,,,17.00,shopify,121,DENY,TRUE,manual
+Classic Beanie,audit-099,<p>Classic Beanie from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-099,Title,Default Title,,,12.00,shopify,15,DENY,TRUE,manual
+Coastal Vest,audit-100,<p>Coastal Vest from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-100,Title,Default Title,,,24.00,shopify,91,DENY,TRUE,manual
+Coastal Tote,audit-101,<p>Coastal Tote from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Bags,"audit-seed, bags",TRUE,active,AUD-101-S,Size,S,,,87.00,shopify,66,DENY,TRUE,manual
+,audit-101,,,,,,,AUD-101-M,Size,M,,,54.00,shopify,8,DENY,TRUE,manual
+,audit-101,,,,,,,AUD-101-L,Size,L,,,32.00,shopify,129,DENY,TRUE,manual
+Prairie Belt,audit-102,<p>Prairie Belt from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-102,Title,Default Title,,,36.00,shopify,24,DENY,TRUE,manual
+Canyon Bottle,audit-103,<p>Canyon Bottle from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-103,Title,Default Title,,,66.00,shopify,111,DENY,TRUE,manual
+Dune Hoodie,audit-104,<p>Dune Hoodie from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Tops,"audit-seed, tops",TRUE,active,AUD-104,Title,Default Title,,,37.00,shopify,44,DENY,TRUE,manual
+Urban Tee,audit-105,<p>Urban Tee from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Tops,"audit-seed, tops",TRUE,active,AUD-105,Title,Default Title,,,42.00,shopify,58,DENY,TRUE,manual
+Coastal Shorts,audit-106,<p>Coastal Shorts from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bottoms,"audit-seed, bottoms",TRUE,active,AUD-106-S,Size,S,,,96.00,shopify,127,DENY,TRUE,manual
+,audit-106,,,,,,,AUD-106-M,Size,M,,,39.00,shopify,96,DENY,TRUE,manual
+,audit-106,,,,,,,AUD-106-L,Size,L,,,32.00,shopify,138,DENY,TRUE,manual
+Summit Cap,audit-107,<p>Summit Cap from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-107,Title,Default Title,,,66.00,shopify,109,DENY,TRUE,manual
+Coastal Hoodie,audit-108,<p>Coastal Hoodie from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Tops,"audit-seed, tops",TRUE,active,AUD-108,Title,Default Title,,,70.00,shopify,93,DENY,TRUE,manual
+Canyon Hoodie,audit-109,<p>Canyon Hoodie from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Tops,"audit-seed, tops",TRUE,active,AUD-109,Title,Default Title,,,102.00,shopify,54,DENY,TRUE,manual
+Alpine Shorts,audit-110,<p>Alpine Shorts from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bottoms,"audit-seed, bottoms",TRUE,active,AUD-110,Title,Default Title,,,51.00,shopify,113,DENY,TRUE,manual
+Harbor Gloves,audit-111,<p>Harbor Gloves from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,,Title,Default Title,,,83.00,shopify,124,DENY,TRUE,manual
+Dune Bottle,audit-112,<p>Dune Bottle from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,,Size,S,,,23.00,shopify,55,DENY,TRUE,manual
+,audit-112,,,,,,,AUD-112-M,Size,M,,,106.00,shopify,51,DENY,TRUE,manual
+,audit-112,,,,,,,AUD-112-L,Size,L,,,26.00,shopify,21,DENY,TRUE,manual
+,audit-112,,,,,,,,Size,XL,,,57.00,shopify,41,DENY,TRUE,manual
+Desert Tote,audit-113,<p>Desert Tote from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,AUD-113,Title,Default Title,,,26.00,shopify,45,DENY,TRUE,manual
+Trail Jacket,audit-114,<p>Trail Jacket from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-114,Title,Default Title,,,38.00,shopify,111,DENY,TRUE,manual
+Harbor Scarf,audit-115,<p>Harbor Scarf from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-115-S,Size,S,,,36.00,shopify,110,DENY,TRUE,manual
+,audit-115,,,,,,,AUD-115-M,Size,M,,,15.00,shopify,0,DENY,TRUE,manual
+Coastal Socks,audit-116,<p>Coastal Socks from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-116,Title,Default Title,,,30.00,shopify,69,DENY,TRUE,manual
+Canyon Jacket,audit-117,<p>Canyon Jacket from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-117,Title,Default Title,,,48.00,shopify,94,DENY,TRUE,manual
+Alpine Hoodie,audit-118,<p>Alpine Hoodie from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Tops,"audit-seed, tops",TRUE,active,AUD-118,Title,Default Title,,,62.00,shopify,3,DENY,TRUE,manual
+Desert Bottle,audit-119,<p>Desert Bottle from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-119,Title,Default Title,,,73.00,shopify,134,DENY,TRUE,manual
+Summit Tote,audit-120,<p>Summit Tote from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,AUD-120-S,Size,S,,,70.00,shopify,70,DENY,TRUE,manual
+,audit-120,,,,,,,,Size,M,,,119.00,shopify,0,DENY,TRUE,manual
+,audit-120,,,,,,,AUD-120-L,Size,L,,,74.00,shopify,36,DENY,TRUE,manual
+,audit-120,,,,,,,AUD-120-XL,Size,XL,,,25.00,shopify,37,DENY,TRUE,manual
+Classic Shorts,audit-121,<p>Classic Shorts from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bottoms,"audit-seed, bottoms",TRUE,active,AUD-121,Title,Default Title,,,83.00,shopify,57,DENY,TRUE,manual
+Summit Belt,audit-122,<p>Summit Belt from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-122,Title,Default Title,,,57.00,shopify,117,DENY,TRUE,manual
+Coastal Beanie,audit-123,<p>Coastal Beanie from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-123,Title,Default Title,,,60.00,shopify,13,DENY,TRUE,manual
+Summit Gloves,audit-124,<p>Summit Gloves from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-124,Title,Default Title,,,101.00,shopify,144,DENY,TRUE,manual
+Summit Tee,audit-125,<p>Summit Tee from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Tops,"audit-seed, tops",TRUE,active,AUD-125,Title,Default Title,,,53.00,shopify,66,DENY,TRUE,manual
+Ridge Hoodie,audit-126,<p>Ridge Hoodie from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Tops,"audit-seed, tops",TRUE,active,AUD-126,Title,Default Title,,,99.00,shopify,21,DENY,TRUE,manual
+Harbor Vest,audit-127,<p>Harbor Vest from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-127,Title,Default Title,,,71.00,shopify,120,DENY,TRUE,manual
+Classic Hoodie,audit-128,<p>Classic Hoodie from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Tops,"audit-seed, tops",TRUE,active,AUD-128,Title,Default Title,,,56.00,shopify,140,DENY,TRUE,manual
+Canyon Tote,audit-129,,Northwind Supply,Bags,"audit-seed, bags",TRUE,active,,Title,Default Title,,,117.00,shopify,135,DENY,TRUE,manual
+Urban Cap,audit-130,<p>Urban Cap from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-130,Title,Default Title,,,117.00,shopify,136,DENY,TRUE,manual
+Desert Tee,audit-131,<p>Desert Tee from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Tops,"audit-seed, tops",TRUE,active,AUD-131,Title,Default Title,,,24.00,shopify,71,DENY,TRUE,manual
+Prairie Cap,audit-132,<p>Prairie Cap from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-132,Title,Default Title,,,49.00,shopify,10,DENY,TRUE,manual
+Canyon Gloves,audit-133,<p>Canyon Gloves from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-133,Title,Default Title,,,22.00,shopify,11,DENY,TRUE,manual
+Trail Cap,audit-134,<p>Trail Cap from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-134,Title,Default Title,,,20.00,shopify,136,DENY,TRUE,manual
+Ridge Beanie,audit-135,<p>Ridge Beanie from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-135,Title,Default Title,,,69.00,shopify,145,DENY,TRUE,manual
+Trail Tee,audit-136,<p>Trail Tee from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Tops,"audit-seed, tops",TRUE,active,AUD-136,Title,Default Title,,,25.00,shopify,0,DENY,TRUE,manual
+Dune Vest,audit-137,<p>Dune Vest from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-137,Title,Default Title,,,114.00,shopify,148,DENY,TRUE,manual
+Ridge Belt,audit-138,<p>Ridge Belt from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-138,Title,Default Title,,,70.00,shopify,0,DENY,TRUE,manual
+Ridge Socks,audit-139,<p>Ridge Socks from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-139,Title,Default Title,,,81.00,shopify,0,DENY,TRUE,manual
+Ridge Tee,audit-140,<p>Ridge Tee from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Tops,"audit-seed, tops",TRUE,active,AUD-140,Title,Default Title,,,31.00,shopify,82,DENY,TRUE,manual
+Coastal Cap,audit-141,<p>Coastal Cap from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-141,Title,Default Title,,,29.00,shopify,7,DENY,TRUE,manual
+Harbor Beanie,audit-142,<p>Harbor Beanie from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-142,Title,Default Title,,,25.00,shopify,101,DENY,TRUE,manual
+Summit Shorts,audit-143,<p>Summit Shorts from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bottoms,"audit-seed, bottoms",TRUE,active,AUD-143,Title,Default Title,,,23.00,shopify,44,DENY,TRUE,manual
+Canyon Vest,audit-144,<p>Canyon Vest from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-144,Title,Default Title,,,80.00,shopify,66,DENY,TRUE,manual
+Dune Backpack,audit-145,<p>Dune Backpack from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,AUD-145,Title,Default Title,,,14.00,shopify,12,DENY,TRUE,manual
+Classic Bottle,audit-146,<p>Classic Bottle from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-146,Title,Default Title,,,107.00,shopify,19,DENY,TRUE,manual
+Desert Beanie,audit-147,<p>Desert Beanie from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-147,Title,Default Title,,,108.00,shopify,134,DENY,TRUE,manual
+Trail Shorts,audit-148,<p>Trail Shorts from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Bottoms,"audit-seed, bottoms",TRUE,active,AUD-148,Title,Default Title,,,27.00,shopify,86,DENY,TRUE,manual
+Canyon Beanie,audit-149,<p>Canyon Beanie from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-149-S,Size,S,,,103.00,shopify,40,DENY,TRUE,manual
+,audit-149,,,,,,,AUD-149-M,Size,M,,,51.00,shopify,121,DENY,TRUE,manual
+Urban Jacket,audit-150,<p>Urban Jacket from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-150,Title,Default Title,,,42.00,shopify,83,DENY,TRUE,manual
+Trail Hoodie,audit-151,,Pacific Outfitters,Tops,"audit-seed, tops",TRUE,active,AUD-151,Title,Default Title,,,103.00,shopify,120,DENY,TRUE,manual
+Classic Jacket,audit-152,<p>Classic Jacket from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-152,Title,Default Title,,,100.00,shopify,0,DENY,TRUE,manual
+Coastal Tee,audit-153,<p>Coastal Tee from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Tops,"audit-seed, tops",TRUE,active,AUD-153,Title,Default Title,,,63.00,shopify,62,DENY,TRUE,manual
+Desert Jacket,audit-154,<p>Desert Jacket from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-154,Title,Default Title,,,77.00,shopify,81,DENY,TRUE,manual
+Prairie Vest,audit-155,<p>Prairie Vest from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-155,Title,Default Title,,,65.00,shopify,11,DENY,TRUE,manual
+Desert Scarf,audit-156,<p>Desert Scarf from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-156-S,Size,S,,,74.00,shopify,64,DENY,TRUE,manual
+,audit-156,,,,,,,AUD-156-M,Size,M,,,88.00,shopify,48,DENY,TRUE,manual
+,audit-156,,,,,,,AUD-156-L,Size,L,,,68.00,shopify,49,DENY,TRUE,manual
+,audit-156,,,,,,,AUD-156-XL,Size,XL,,,110.00,shopify,30,DENY,TRUE,manual
+Prairie Jacket,audit-157,<p>Prairie Jacket from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-157-S,Size,S,,,87.00,shopify,122,DENY,TRUE,manual
+,audit-157,,,,,,,AUD-157-M,Size,M,,,87.00,shopify,98,DENY,TRUE,manual
+,audit-157,,,,,,,AUD-157-L,Size,L,,,73.00,shopify,0,DENY,TRUE,manual
+Prairie Hoodie,audit-158,<p>Prairie Hoodie from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Tops,"audit-seed, tops",TRUE,active,AUD-158,Title,Default Title,,,14.00,shopify,128,DENY,TRUE,manual
+Harbor Tote,audit-159,<p>Harbor Tote from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bags,"audit-seed, bags",TRUE,active,AUD-159,Title,Default Title,,,39.00,shopify,99,DENY,TRUE,manual
+Prairie Bottle,audit-160,<p>Prairie Bottle from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-160,Title,Default Title,,,105.00,shopify,0,DENY,TRUE,manual
+Dune Tee,audit-161,<p>Dune Tee from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Tops,"audit-seed, tops",TRUE,active,AUD-161,Title,Default Title,,,79.00,shopify,120,DENY,TRUE,manual
+Prairie Scarf,audit-162,<p>Prairie Scarf from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-162,Title,Default Title,,,112.00,shopify,36,DENY,TRUE,manual
+Coastal Backpack,audit-163,<p>Coastal Backpack from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Bags,"audit-seed, bags",TRUE,active,AUD-163,Title,Default Title,,,49.00,shopify,62,DENY,TRUE,manual
+Trail Belt,audit-164,<p>Trail Belt from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-164,Title,Default Title,,,78.00,shopify,81,DENY,TRUE,manual
+Alpine Tee,audit-165,<p>Alpine Tee from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Tops,"audit-seed, tops",TRUE,active,AUD-165,Title,Default Title,,,46.00,shopify,111,DENY,TRUE,manual
+Alpine Bottle,audit-166,<p>Alpine Bottle from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,,Title,Default Title,,,106.00,shopify,149,DENY,TRUE,manual
+Canyon Shorts,audit-167,<p>Canyon Shorts from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bottoms,"audit-seed, bottoms",TRUE,active,AUD-167-S,Size,S,,,15.00,shopify,91,DENY,TRUE,manual
+,audit-167,,,,,,,AUD-167-M,Size,M,,,89.00,shopify,134,DENY,TRUE,manual
+,audit-167,,,,,,,AUD-167-L,Size,L,,,33.00,shopify,136,DENY,TRUE,manual
+Urban Bottle,audit-168,<p>Urban Bottle from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-168-S,Size,S,,,27.00,shopify,145,DENY,TRUE,manual
+,audit-168,,,,,,,AUD-168-M,Size,M,,,59.00,shopify,0,DENY,TRUE,manual
+,audit-168,,,,,,,AUD-168-L,Size,L,,,87.00,shopify,20,DENY,TRUE,manual
+,audit-168,,,,,,,AUD-168-XL,Size,XL,,,82.00,shopify,44,DENY,TRUE,manual
+Alpine Gloves II,audit-169,<p>Alpine Gloves II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-169,Title,Default Title,,,70.00,shopify,104,DENY,TRUE,manual
+Canyon Scarf II,audit-170,<p>Canyon Scarf II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-170,Title,Default Title,,,115.00,shopify,29,DENY,TRUE,manual
+Canyon Tee II,audit-171,<p>Canyon Tee II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Tops,"audit-seed, tops",TRUE,active,AUD-171,Title,Default Title,,,114.00,shopify,0,DENY,TRUE,manual
+Summit Hoodie II,audit-172,<p>Summit Hoodie II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Tops,"audit-seed, tops",TRUE,active,AUD-172,Title,Default Title,,,115.00,shopify,107,DENY,TRUE,manual
+Classic Vest II,audit-173,<p>Classic Vest II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-173-S,Size,S,,,63.00,shopify,2,DENY,TRUE,manual
+,audit-173,,,,,,,AUD-173-M,Size,M,,,43.00,shopify,51,DENY,TRUE,manual
+,audit-173,,,,,,,AUD-173-L,Size,L,,,18.00,shopify,68,DENY,TRUE,manual
+,audit-173,,,,,,,AUD-173-XL,Size,XL,,,108.00,shopify,44,DENY,TRUE,manual
+Dune Tote II,audit-174,<p>Dune Tote II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,AUD-174,Title,Default Title,,,79.00,shopify,69,DENY,TRUE,manual
+Coastal Belt II,audit-175,<p>Coastal Belt II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-175,Title,Default Title,,,59.00,shopify,22,DENY,TRUE,manual
+Dune Cap II,audit-176,<p>Dune Cap II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-176,Title,Default Title,,,44.00,shopify,43,DENY,TRUE,manual
+Ridge Scarf II,audit-177,<p>Ridge Scarf II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-177,Title,Default Title,,,16.00,shopify,56,DENY,TRUE,manual
+Classic Tee II,audit-178,<p>Classic Tee II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Tops,"audit-seed, tops",TRUE,active,AUD-178-S,Size,S,,,102.00,shopify,144,DENY,TRUE,manual
+,audit-178,,,,,,,AUD-178-M,Size,M,,,26.00,shopify,115,DENY,TRUE,manual
+,audit-178,,,,,,,AUD-178-L,Size,L,,,82.00,shopify,10,DENY,TRUE,manual
+,audit-178,,,,,,,AUD-178-XL,Size,XL,,,57.00,shopify,120,DENY,TRUE,manual
+Alpine Scarf II,audit-179,<p>Alpine Scarf II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-179,Title,Default Title,,,119.00,shopify,132,DENY,TRUE,manual
+Classic Cap II,audit-180,,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-180,Title,Default Title,,,92.00,shopify,9,DENY,TRUE,manual
+Trail Socks II,audit-181,<p>Trail Socks II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-181-S,Size,S,,,36.00,shopify,124,DENY,TRUE,manual
+,audit-181,,,,,,,AUD-181-M,Size,M,,,18.00,shopify,75,DENY,TRUE,manual
+Classic Tote II,audit-182,<p>Classic Tote II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bags,"audit-seed, bags",TRUE,active,AUD-182,Title,Default Title,,,23.00,shopify,44,DENY,TRUE,manual
+Ridge Cap II,audit-183,,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-183,Title,Default Title,,,95.00,shopify,17,DENY,TRUE,manual
+Classic Socks II,audit-184,,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-184,Title,Default Title,,,47.00,shopify,53,DENY,TRUE,manual
+Summit Backpack II,audit-185,,Northwind Supply,Bags,"audit-seed, bags",TRUE,active,AUD-185,Title,Default Title,,,12.00,shopify,74,DENY,TRUE,manual
+Alpine Socks II,audit-186,<p>Alpine Socks II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-186,Title,Default Title,,,91.00,shopify,12,DENY,TRUE,manual
+Harbor Belt II,audit-187,<p>Harbor Belt II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-187,Title,Default Title,,,72.00,shopify,67,DENY,TRUE,manual
+Summit Beanie II,audit-188,<p>Summit Beanie II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-188,Title,Default Title,,,21.00,shopify,140,DENY,TRUE,manual
+Trail Vest II,audit-189,<p>Trail Vest II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-189,Title,Default Title,,,33.00,shopify,141,DENY,TRUE,manual
+Urban Vest II,audit-190,<p>Urban Vest II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-190,Title,Default Title,,,93.00,shopify,133,DENY,TRUE,manual
+Desert Shorts II,audit-191,<p>Desert Shorts II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Bottoms,"audit-seed, bottoms",TRUE,active,AUD-191,Title,Default Title,,,86.00,shopify,139,DENY,TRUE,manual
+Prairie Shorts II,audit-192,<p>Prairie Shorts II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bottoms,"audit-seed, bottoms",TRUE,active,,Title,Default Title,,,42.00,shopify,127,DENY,TRUE,manual
+Desert Backpack II,audit-193,<p>Desert Backpack II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Bags,"audit-seed, bags",TRUE,active,AUD-193-S,Size,S,,,116.00,shopify,14,DENY,TRUE,manual
+,audit-193,,,,,,,AUD-193-M,Size,M,,,81.00,shopify,91,DENY,TRUE,manual
+Harbor Socks II,audit-194,<p>Harbor Socks II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-194,Title,Default Title,,,41.00,shopify,138,DENY,TRUE,manual
+Ridge Tote II,audit-195,<p>Ridge Tote II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,AUD-195,Title,Default Title,,,62.00,shopify,119,DENY,TRUE,manual
+Alpine Beanie II,audit-196,<p>Alpine Beanie II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-196,Title,Default Title,,,23.00,shopify,63,DENY,TRUE,manual
+Urban Belt II,audit-197,<p>Urban Belt II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-197,Title,Default Title,,,16.00,shopify,4,DENY,TRUE,manual
+Desert Belt II,audit-198,,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-198,Title,Default Title,,,64.00,shopify,99,DENY,TRUE,manual
+Harbor Jacket II,audit-199,<p>Harbor Jacket II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-199,Title,Default Title,,,83.00,shopify,23,DENY,TRUE,manual
+Dune Beanie II,audit-200,<p>Dune Beanie II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-200-S,Size,S,,,68.00,shopify,46,DENY,TRUE,manual
+,audit-200,,,,,,,AUD-200-M,Size,M,,,33.00,shopify,61,DENY,TRUE,manual
+,audit-200,,,,,,,AUD-200-L,Size,L,,,33.00,shopify,144,DENY,TRUE,manual
+,audit-200,,,,,,,AUD-200-XL,Size,XL,,,37.00,shopify,130,DENY,TRUE,manual
+Harbor Cap II,audit-201,<p>Harbor Cap II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-201,Title,Default Title,,,108.00,shopify,87,DENY,TRUE,manual
+Trail Beanie II,audit-202,<p>Trail Beanie II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-202,Title,Default Title,,,63.00,shopify,72,DENY,TRUE,manual
+Harbor Bottle II,audit-203,<p>Harbor Bottle II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-203,Title,Default Title,,,94.00,shopify,44,DENY,TRUE,manual
+Dune Scarf II,audit-204,<p>Dune Scarf II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-204,Title,Default Title,,,71.00,shopify,24,DENY,TRUE,manual
+Dune Gloves II,audit-205,<p>Dune Gloves II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-205-S,Size,S,,,14.00,shopify,89,DENY,TRUE,manual
+,audit-205,,,,,,,AUD-205-M,Size,M,,,21.00,shopify,34,DENY,TRUE,manual
+,audit-205,,,,,,,AUD-205-L,Size,L,,,84.00,shopify,133,DENY,TRUE,manual
+Desert Cap II,audit-206,<p>Desert Cap II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-206,Title,Default Title,,,111.00,shopify,63,DENY,TRUE,manual
+Urban Scarf II,audit-207,<p>Urban Scarf II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-207,Title,Default Title,,,117.00,shopify,122,DENY,TRUE,manual
+Coastal Jacket II,audit-208,<p>Coastal Jacket II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-208,Title,Default Title,,,100.00,shopify,39,DENY,TRUE,manual
+Summit Vest II,audit-209,<p>Summit Vest II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-209,Title,Default Title,,,99.00,shopify,83,DENY,TRUE,manual
+Harbor Shorts II,audit-210,<p>Harbor Shorts II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bottoms,"audit-seed, bottoms",TRUE,active,AUD-210,Title,Default Title,,,34.00,shopify,127,DENY,TRUE,manual
+Ridge Vest II,audit-211,<p>Ridge Vest II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-211-S,Size,S,,,82.00,shopify,30,DENY,TRUE,manual
+,audit-211,,,,,,,AUD-211-M,Size,M,,,29.00,shopify,1,DENY,TRUE,manual
+Harbor Tee II,audit-212,,Pacific Outfitters,Tops,"audit-seed, tops",TRUE,active,AUD-212,Title,Default Title,,,116.00,shopify,0,DENY,TRUE,manual
+Dune Jacket II,audit-213,<p>Dune Jacket II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-213,Title,Default Title,,,23.00,shopify,128,DENY,TRUE,manual
+Ridge Bottle II,audit-214,<p>Ridge Bottle II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-214-S,Size,S,,,92.00,shopify,108,DENY,TRUE,manual
+,audit-214,,,,,,,AUD-214-M,Size,M,,,97.00,shopify,146,DENY,TRUE,manual
+,audit-214,,,,,,,AUD-214-L,Size,L,,,55.00,shopify,132,DENY,TRUE,manual
+Prairie Tee II,audit-215,<p>Prairie Tee II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Tops,"audit-seed, tops",TRUE,active,AUD-215,Title,Default Title,,,57.00,shopify,22,DENY,TRUE,manual
+Summit Jacket II,audit-216,<p>Summit Jacket II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-216,Title,Default Title,,,107.00,shopify,6,DENY,TRUE,manual
+Urban Socks II,audit-217,<p>Urban Socks II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-217,Title,Default Title,,,95.00,shopify,65,DENY,TRUE,manual
+Trail Scarf II,audit-218,<p>Trail Scarf II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-218,Title,Default Title,,,42.00,shopify,0,DENY,TRUE,manual
+Ridge Gloves II,audit-219,<p>Ridge Gloves II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-219,Title,Default Title,,,60.00,shopify,63,DENY,TRUE,manual
+Summit Socks II,audit-220,<p>Summit Socks II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-220,Title,Default Title,,,50.00,shopify,148,DENY,TRUE,manual
+Canyon Cap II,audit-221,<p>Canyon Cap II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,,Title,Default Title,,,99.00,shopify,146,DENY,TRUE,manual
+Ridge Jacket II,audit-222,<p>Ridge Jacket II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-222,Title,Default Title,,,34.00,shopify,79,DENY,TRUE,manual
+Canyon Belt II,audit-223,<p>Canyon Belt II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,,Size,S,,,107.00,shopify,137,DENY,TRUE,manual
+,audit-223,,,,,,,AUD-223-M,Size,M,,,13.00,shopify,8,DENY,TRUE,manual
+Summit Bottle II,audit-224,<p>Summit Bottle II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-224,Title,Default Title,,,55.00,shopify,45,DENY,TRUE,manual
+Ridge Shorts II,audit-225,<p>Ridge Shorts II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bottoms,"audit-seed, bottoms",TRUE,active,,Title,Default Title,,,103.00,shopify,118,DENY,TRUE,manual
+Classic Belt II,audit-226,<p>Classic Belt II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-226,Title,Default Title,,,87.00,shopify,25,DENY,TRUE,manual
+Trail Tote II,audit-227,<p>Trail Tote II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Bags,"audit-seed, bags",TRUE,active,AUD-227,Title,Default Title,,,43.00,shopify,121,DENY,TRUE,manual
+Urban Beanie II,audit-228,<p>Urban Beanie II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,,Title,Default Title,,,108.00,shopify,41,DENY,TRUE,manual
+Desert Vest II,audit-229,<p>Desert Vest II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-229,Title,Default Title,,,89.00,shopify,0,DENY,TRUE,manual
+Harbor Hoodie II,audit-230,<p>Harbor Hoodie II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Tops,"audit-seed, tops",TRUE,active,AUD-230,Title,Default Title,,,96.00,shopify,123,DENY,TRUE,manual
+Canyon Socks II,audit-231,<p>Canyon Socks II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-231-S,Size,S,,,26.00,shopify,0,DENY,TRUE,manual
+,audit-231,,,,,,,AUD-231-M,Size,M,,,28.00,shopify,2,DENY,TRUE,manual
+,audit-231,,,,,,,AUD-231-L,Size,L,,,90.00,shopify,136,DENY,TRUE,manual
+Dune Belt II,audit-232,<p>Dune Belt II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-232-S,Size,S,,,51.00,shopify,38,DENY,TRUE,manual
+,audit-232,,,,,,,AUD-232-M,Size,M,,,64.00,shopify,65,DENY,TRUE,manual
+Alpine Tote II,audit-233,<p>Alpine Tote II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,AUD-233,Title,Default Title,,,14.00,shopify,114,DENY,TRUE,manual
+Classic Gloves II,audit-234,<p>Classic Gloves II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-234,Title,Default Title,,,89.00,shopify,76,DENY,TRUE,manual
+Classic Backpack II,audit-235,<p>Classic Backpack II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Bags,"audit-seed, bags",TRUE,active,AUD-235-S,Size,S,,,31.00,shopify,98,DENY,TRUE,manual
+,audit-235,,,,,,,AUD-235-M,Size,M,,,93.00,shopify,2,DENY,TRUE,manual
+,audit-235,,,,,,,AUD-235-L,Size,L,,,68.00,shopify,32,DENY,TRUE,manual
+,audit-235,,,,,,,AUD-235-XL,Size,XL,,,24.00,shopify,59,DENY,TRUE,manual
+Urban Hoodie II,audit-236,<p>Urban Hoodie II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Tops,"audit-seed, tops",TRUE,active,AUD-236,Title,Default Title,,,118.00,shopify,84,DENY,TRUE,manual
+Urban Tote II,audit-237,<p>Urban Tote II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bags,"audit-seed, bags",TRUE,active,AUD-237,Title,Default Title,,,68.00,shopify,18,DENY,TRUE,manual
+Prairie Socks II,audit-238,<p>Prairie Socks II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,,Title,Default Title,,,120.00,shopify,99,DENY,TRUE,manual
+Summit Scarf II,audit-239,,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-239-S,Size,S,,,47.00,shopify,113,DENY,TRUE,manual
+,audit-239,,,,,,,AUD-239-M,Size,M,,,110.00,shopify,114,DENY,TRUE,manual
+Alpine Jacket II,audit-240,<p>Alpine Jacket II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-240,Title,Default Title,,,105.00,shopify,77,DENY,TRUE,manual
+Alpine Belt II,audit-241,<p>Alpine Belt II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-241,Title,Default Title,,,44.00,shopify,115,DENY,TRUE,manual
+Desert Hoodie II,audit-242,<p>Desert Hoodie II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Tops,"audit-seed, tops",TRUE,active,AUD-242,Title,Default Title,,,106.00,shopify,0,DENY,TRUE,manual
+Desert Gloves II,audit-243,<p>Desert Gloves II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-243-S,Size,S,,,72.00,shopify,76,DENY,TRUE,manual
+,audit-243,,,,,,,AUD-243-M,Size,M,,,52.00,shopify,44,DENY,TRUE,manual
+,audit-243,,,,,,,AUD-243-L,Size,L,,,25.00,shopify,141,DENY,TRUE,manual
+Urban Shorts II,audit-244,<p>Urban Shorts II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bottoms,"audit-seed, bottoms",TRUE,active,AUD-244-S,Size,S,,,15.00,shopify,53,DENY,TRUE,manual
+,audit-244,,,,,,,AUD-244-M,Size,M,,,39.00,shopify,76,DENY,TRUE,manual
+,audit-244,,,,,,,AUD-244-L,Size,L,,,103.00,shopify,104,DENY,TRUE,manual
+Desert Socks II,audit-245,<p>Desert Socks II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-245,Title,Default Title,,,40.00,shopify,0,DENY,TRUE,manual
+Canyon Backpack II,audit-246,,Pacific Outfitters,Bags,"audit-seed, bags",TRUE,active,AUD-246,Title,Default Title,,,33.00,shopify,26,DENY,TRUE,manual
+Urban Gloves II,audit-247,<p>Urban Gloves II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-247,Title,Default Title,,,41.00,shopify,99,DENY,TRUE,manual
+Coastal Scarf II,audit-248,<p>Coastal Scarf II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-248-S,Size,S,,,28.00,shopify,86,DENY,TRUE,manual
+,audit-248,,,,,,,AUD-248-M,Size,M,,,94.00,shopify,138,DENY,TRUE,manual
+,audit-248,,,,,,,AUD-248-L,Size,L,,,62.00,shopify,54,DENY,TRUE,manual
+,audit-248,,,,,,,AUD-248-XL,Size,XL,,,90.00,shopify,141,DENY,TRUE,manual
+Alpine Cap II,audit-249,<p>Alpine Cap II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-249,Title,Default Title,,,50.00,shopify,0,DENY,TRUE,manual
+Coastal Bottle II,audit-250,<p>Coastal Bottle II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-250,Title,Default Title,,,80.00,shopify,97,DENY,TRUE,manual
+Prairie Beanie II,audit-251,<p>Prairie Beanie II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-251,Title,Default Title,,,100.00,shopify,68,DENY,TRUE,manual
+Trail Backpack II,audit-252,<p>Trail Backpack II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Bags,"audit-seed, bags",TRUE,active,AUD-252,Title,Default Title,,,56.00,shopify,0,DENY,TRUE,manual
+Urban Backpack II,audit-253,<p>Urban Backpack II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,AUD-253,Title,Default Title,,,43.00,shopify,45,DENY,TRUE,manual
+Prairie Backpack II,audit-254,<p>Prairie Backpack II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,AUD-254,Title,Default Title,,,77.00,shopify,78,DENY,TRUE,manual
+Trail Gloves II,audit-255,<p>Trail Gloves II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-255-S,Size,S,,,16.00,shopify,51,DENY,TRUE,manual
+,audit-255,,,,,,,AUD-255-M,Size,M,,,50.00,shopify,44,DENY,TRUE,manual
+Coastal Gloves II,audit-256,<p>Coastal Gloves II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-256,Title,Default Title,,,120.00,shopify,111,DENY,TRUE,manual
+Dune Socks II,audit-257,<p>Dune Socks II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-257,Title,Default Title,,,97.00,shopify,149,DENY,TRUE,manual
+Dune Shorts II,audit-258,<p>Dune Shorts II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Bottoms,"audit-seed, bottoms",TRUE,active,AUD-258,Title,Default Title,,,28.00,shopify,114,DENY,TRUE,manual
+Classic Scarf II,audit-259,<p>Classic Scarf II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,,Size,S,,,60.00,shopify,128,DENY,TRUE,manual
+,audit-259,,,,,,,AUD-259-M,Size,M,,,99.00,shopify,16,DENY,TRUE,manual
+Ridge Backpack II,audit-260,<p>Ridge Backpack II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,AUD-260-S,Size,S,,,90.00,shopify,79,DENY,TRUE,manual
+,audit-260,,,,,,,AUD-260-M,Size,M,,,106.00,shopify,10,DENY,TRUE,manual
+,audit-260,,,,,,,AUD-260-L,Size,L,,,114.00,shopify,132,DENY,TRUE,manual
+,audit-260,,,,,,,AUD-260-XL,Size,XL,,,55.00,shopify,144,DENY,TRUE,manual
+Harbor Backpack II,audit-261,<p>Harbor Backpack II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,,Title,Default Title,,,50.00,shopify,106,DENY,TRUE,manual
+Prairie Gloves II,audit-262,<p>Prairie Gloves II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-262-S,Size,S,,,40.00,shopify,137,DENY,TRUE,manual
+,audit-262,,,,,,,AUD-262-M,Size,M,,,118.00,shopify,131,DENY,TRUE,manual
+,audit-262,,,,,,,AUD-262-L,Size,L,,,48.00,shopify,130,DENY,TRUE,manual
+Alpine Backpack II,audit-263,<p>Alpine Backpack II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bags,"audit-seed, bags",TRUE,active,AUD-263,Title,Default Title,,,56.00,shopify,90,DENY,TRUE,manual
+Trail Bottle II,audit-264,<p>Trail Bottle II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-264,Title,Default Title,,,108.00,shopify,100,DENY,TRUE,manual
+Prairie Tote II,audit-265,<p>Prairie Tote II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bags,"audit-seed, bags",TRUE,active,AUD-265-S,Size,S,,,79.00,shopify,57,DENY,TRUE,manual
+,audit-265,,,,,,,AUD-265-M,Size,M,,,13.00,shopify,108,DENY,TRUE,manual
+,audit-265,,,,,,,AUD-265-L,Size,L,,,79.00,shopify,110,DENY,TRUE,manual
+,audit-265,,,,,,,AUD-265-XL,Size,XL,,,61.00,shopify,94,DENY,TRUE,manual
+Alpine Vest II,audit-266,<p>Alpine Vest II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Outerwear,"audit-seed, outerwear",TRUE,active,,Title,Default Title,,,114.00,shopify,63,DENY,TRUE,manual
+Classic Beanie II,audit-267,<p>Classic Beanie II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-267-S,Size,S,,,83.00,shopify,150,DENY,TRUE,manual
+,audit-267,,,,,,,AUD-267-M,Size,M,,,60.00,shopify,92,DENY,TRUE,manual
+,audit-267,,,,,,,AUD-267-L,Size,L,,,107.00,shopify,8,DENY,TRUE,manual
+Coastal Vest II,audit-268,<p>Coastal Vest II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-268,Title,Default Title,,,25.00,shopify,61,DENY,TRUE,manual
+Coastal Tote II,audit-269,<p>Coastal Tote II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bags,"audit-seed, bags",TRUE,active,AUD-269,Title,Default Title,,,39.00,shopify,45,DENY,TRUE,manual
+Prairie Belt II,audit-270,<p>Prairie Belt II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,,Title,Default Title,,,74.00,shopify,101,DENY,TRUE,manual
+Canyon Bottle II,audit-271,<p>Canyon Bottle II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-271,Title,Default Title,,,72.00,shopify,41,DENY,TRUE,manual
+Dune Hoodie II,audit-272,<p>Dune Hoodie II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Tops,"audit-seed, tops",TRUE,active,AUD-272-S,Size,S,,,67.00,shopify,132,DENY,TRUE,manual
+,audit-272,,,,,,,AUD-272-M,Size,M,,,36.00,shopify,96,DENY,TRUE,manual
+,audit-272,,,,,,,AUD-272-L,Size,L,,,15.00,shopify,140,DENY,TRUE,manual
+,audit-272,,,,,,,AUD-272-XL,Size,XL,,,22.00,shopify,26,DENY,TRUE,manual
+Urban Tee II,audit-273,<p>Urban Tee II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Tops,"audit-seed, tops",TRUE,active,AUD-273,Title,Default Title,,,26.00,shopify,56,DENY,TRUE,manual
+Coastal Shorts II,audit-274,<p>Coastal Shorts II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Bottoms,"audit-seed, bottoms",TRUE,active,AUD-274,Title,Default Title,,,62.00,shopify,32,DENY,TRUE,manual
+Summit Cap II,audit-275,<p>Summit Cap II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-275,Title,Default Title,,,70.00,shopify,0,DENY,TRUE,manual
+Coastal Hoodie II,audit-276,<p>Coastal Hoodie II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Tops,"audit-seed, tops",TRUE,active,AUD-276,Title,Default Title,,,93.00,shopify,133,DENY,TRUE,manual
+Canyon Hoodie II,audit-277,,Northwind Supply,Tops,"audit-seed, tops",TRUE,active,AUD-277,Title,Default Title,,,92.00,shopify,26,DENY,TRUE,manual
+Alpine Shorts II,audit-278,<p>Alpine Shorts II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bottoms,"audit-seed, bottoms",TRUE,active,AUD-278,Title,Default Title,,,65.00,shopify,61,DENY,TRUE,manual
+Harbor Gloves II,audit-279,<p>Harbor Gloves II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-279-S,Size,S,,,53.00,shopify,80,DENY,TRUE,manual
+,audit-279,,,,,,,AUD-279-M,Size,M,,,12.00,shopify,25,DENY,TRUE,manual
+,audit-279,,,,,,,AUD-279-L,Size,L,,,20.00,shopify,88,DENY,TRUE,manual
+Dune Bottle II,audit-280,<p>Dune Bottle II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-280-S,Size,S,,,96.00,shopify,39,DENY,TRUE,manual
+,audit-280,,,,,,,AUD-280-M,Size,M,,,70.00,shopify,106,DENY,TRUE,manual
+,audit-280,,,,,,,,Size,L,,,24.00,shopify,28,DENY,TRUE,manual
+,audit-280,,,,,,,AUD-280-XL,Size,XL,,,117.00,shopify,49,DENY,TRUE,manual
+Desert Tote II,audit-281,<p>Desert Tote II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Bags,"audit-seed, bags",TRUE,active,AUD-281-S,Size,S,,,114.00,shopify,142,DENY,TRUE,manual
+,audit-281,,,,,,,AUD-281-M,Size,M,,,74.00,shopify,88,DENY,TRUE,manual
+,audit-281,,,,,,,AUD-281-L,Size,L,,,88.00,shopify,47,DENY,TRUE,manual
+,audit-281,,,,,,,AUD-281-XL,Size,XL,,,27.00,shopify,23,DENY,TRUE,manual
+Trail Jacket II,audit-282,<p>Trail Jacket II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-282,Title,Default Title,,,56.00,shopify,61,DENY,TRUE,manual
+Harbor Scarf II,audit-283,<p>Harbor Scarf II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-283,Title,Default Title,,,31.00,shopify,114,DENY,TRUE,manual
+Coastal Socks II,audit-284,<p>Coastal Socks II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-284,Title,Default Title,,,71.00,shopify,26,DENY,TRUE,manual
+Canyon Jacket II,audit-285,<p>Canyon Jacket II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-285,Title,Default Title,,,82.00,shopify,109,DENY,TRUE,manual
+Alpine Hoodie II,audit-286,<p>Alpine Hoodie II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Tops,"audit-seed, tops",TRUE,active,AUD-286,Title,Default Title,,,108.00,shopify,34,DENY,TRUE,manual
+Desert Bottle II,audit-287,<p>Desert Bottle II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-287,Title,Default Title,,,23.00,shopify,6,DENY,TRUE,manual
+Summit Tote II,audit-288,<p>Summit Tote II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Bags,"audit-seed, bags",TRUE,active,AUD-288,Title,Default Title,,,99.00,shopify,119,DENY,TRUE,manual
+Classic Shorts II,audit-289,<p>Classic Shorts II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Bottoms,"audit-seed, bottoms",TRUE,active,AUD-289,Title,Default Title,,,66.00,shopify,17,DENY,TRUE,manual
+Summit Belt II,audit-290,<p>Summit Belt II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-290,Title,Default Title,,,68.00,shopify,128,DENY,TRUE,manual
+Coastal Beanie II,audit-291,<p>Coastal Beanie II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Accessories,"audit-seed, accessories",TRUE,active,AUD-291,Title,Default Title,,,19.00,shopify,115,DENY,TRUE,manual
+Summit Gloves II,audit-292,<p>Summit Gloves II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Accessories,"audit-seed, accessories",TRUE,active,AUD-292,Title,Default Title,,,72.00,shopify,90,DENY,TRUE,manual
+Summit Tee II,audit-293,<p>Summit Tee II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Tops,"audit-seed, tops",TRUE,active,AUD-293-S,Size,S,,,107.00,shopify,26,DENY,TRUE,manual
+,audit-293,,,,,,,AUD-293-M,Size,M,,,18.00,shopify,105,DENY,TRUE,manual
+,audit-293,,,,,,,AUD-293-L,Size,L,,,35.00,shopify,110,DENY,TRUE,manual
+Ridge Hoodie II,audit-294,<p>Ridge Hoodie II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Tops,"audit-seed, tops",TRUE,active,AUD-294,Title,Default Title,,,93.00,shopify,18,DENY,TRUE,manual
+Harbor Vest II,audit-295,<p>Harbor Vest II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-295,Title,Default Title,,,44.00,shopify,140,DENY,TRUE,manual
+Classic Hoodie II,audit-296,<p>Classic Hoodie II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Tops,"audit-seed, tops",TRUE,active,,Title,Default Title,,,79.00,shopify,64,DENY,TRUE,manual
+Canyon Tote II,audit-297,<p>Canyon Tote II from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Bags,"audit-seed, bags",TRUE,active,AUD-297,Title,Default Title,,,66.00,shopify,28,DENY,TRUE,manual
+Urban Cap II,audit-298,<p>Urban Cap II from Northwind Supply. Built for everyday use.</p>,Northwind Supply,Accessories,"audit-seed, accessories",TRUE,active,AUD-298,Title,Default Title,,,56.00,shopify,44,DENY,TRUE,manual
+Desert Tee II,audit-299,<p>Desert Tee II from Pacific Outfitters. Built for everyday use.</p>,Pacific Outfitters,Tops,"audit-seed, tops",TRUE,active,AUD-299,Title,Default Title,,,13.00,shopify,37,DENY,TRUE,manual
+Everyday Tech Shell,audit-300-big-variants,<p>Everyday Tech Shell from Sierra Goods. Built for everyday use.</p>,Sierra Goods,Outerwear,"audit-seed, outerwear",TRUE,active,AUD-300-XS-BLA,Size,XS,Color,Black,149.00,shopify,79,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-XS-NAV,Size,XS,Color,Navy,149.00,shopify,67,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-XS-OLI,Size,XS,Color,Olive,149.00,shopify,112,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-XS-SAN,Size,XS,Color,Sand,149.00,shopify,27,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-S-BLA,Size,S,Color,Black,149.00,shopify,58,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-S-NAV,Size,S,Color,Navy,149.00,shopify,94,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-S-OLI,Size,S,Color,Olive,149.00,shopify,20,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-S-SAN,Size,S,Color,Sand,149.00,shopify,106,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-M-BLA,Size,M,Color,Black,149.00,shopify,22,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-M-NAV,Size,M,Color,Navy,149.00,shopify,148,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-M-OLI,Size,M,Color,Olive,149.00,shopify,68,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-M-SAN,Size,M,Color,Sand,149.00,shopify,82,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-L-BLA,Size,L,Color,Black,149.00,shopify,110,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-L-NAV,Size,L,Color,Navy,149.00,shopify,149,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-L-OLI,Size,L,Color,Olive,149.00,shopify,80,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-L-SAN,Size,L,Color,Sand,149.00,shopify,60,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-XL-BLA,Size,XL,Color,Black,149.00,shopify,135,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-XL-NAV,Size,XL,Color,Navy,149.00,shopify,47,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-XL-OLI,Size,XL,Color,Olive,149.00,shopify,136,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-XL-SAN,Size,XL,Color,Sand,149.00,shopify,108,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-2XL-BLA,Size,2XL,Color,Black,149.00,shopify,65,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,,Size,2XL,Color,Navy,149.00,shopify,9,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-2XL-OLI,Size,2XL,Color,Olive,149.00,shopify,143,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-2XL-SAN,Size,2XL,Color,Sand,149.00,shopify,65,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,,Size,3XL,Color,Black,149.00,shopify,135,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-3XL-NAV,Size,3XL,Color,Navy,149.00,shopify,118,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,,Size,3XL,Color,Olive,149.00,shopify,75,DENY,TRUE,manual
+,audit-300-big-variants,,,,,,,AUD-300-3XL-SAN,Size,3XL,Color,Sand,149.00,shopify,106,DENY,TRUE,manual

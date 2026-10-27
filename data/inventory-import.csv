@@ -1,0 +1,450 @@
+Handle,Title,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,SKU,Location,On hand (current),On hand (new)
+audit-001,Alpine Gloves,Title,Default Title,,,,,,Shop location,0,64
+audit-002,Canyon Scarf,Title,Default Title,,,,,AUD-002,Shop location,0,92
+audit-003,Canyon Tee,Title,Default Title,,,,,AUD-003,Shop location,0,117
+audit-004,Summit Hoodie,Title,Default Title,,,,,AUD-004,Shop location,0,89
+audit-005,Classic Vest,Title,Default Title,,,,,AUD-005,Shop location,0,18
+audit-006,Dune Tote,Title,Default Title,,,,,AUD-006,Shop location,0,23
+audit-007,Coastal Belt,Title,Default Title,,,,,AUD-007,Shop location,0,127
+audit-008,Dune Cap,Size,S,,,,,AUD-008-S,Shop location,0,80
+audit-008,Dune Cap,Size,M,,,,,AUD-008-M,Shop location,0,58
+audit-009,Ridge Scarf,Title,Default Title,,,,,AUD-009,Shop location,0,84
+audit-010,Classic Tee,Title,Default Title,,,,,AUD-010,Shop location,0,130
+audit-011,Alpine Scarf,Size,S,,,,,AUD-011-S,Shop location,0,85
+audit-011,Alpine Scarf,Size,M,,,,,AUD-011-M,Shop location,0,127
+audit-011,Alpine Scarf,Size,L,,,,,AUD-011-L,Shop location,0,81
+audit-012,Classic Cap,Title,Default Title,,,,,AUD-012,Shop location,0,51
+audit-013,Trail Socks,Title,Default Title,,,,,AUD-013,Shop location,0,119
+audit-014,Classic Tote,Size,S,,,,,AUD-014-S,Shop location,0,90
+audit-014,Classic Tote,Size,M,,,,,AUD-014-M,Shop location,0,90
+audit-014,Classic Tote,Size,L,,,,,AUD-014-L,Shop location,0,98
+audit-015,Ridge Cap,Title,Default Title,,,,,AUD-015,Shop location,0,40
+audit-016,Classic Socks,Title,Default Title,,,,,AUD-016,Shop location,0,146
+audit-017,Summit Backpack,Title,Default Title,,,,,AUD-017,Shop location,0,33
+audit-018,Alpine Socks,Size,S,,,,,AUD-018-S,Shop location,0,69
+audit-018,Alpine Socks,Size,M,,,,,AUD-018-M,Shop location,0,31
+audit-018,Alpine Socks,Size,L,,,,,AUD-018-L,Shop location,0,69
+audit-019,Harbor Belt,Title,Default Title,,,,,AUD-019,Shop location,0,114
+audit-020,Summit Beanie,Title,Default Title,,,,,AUD-020,Shop location,0,38
+audit-021,Trail Vest,Title,Default Title,,,,,AUD-021,Shop location,0,69
+audit-022,Urban Vest,Title,Default Title,,,,,AUD-022,Shop location,0,85
+audit-023,Desert Shorts,Title,Default Title,,,,,AUD-023,Shop location,0,144
+audit-024,Prairie Shorts,Size,S,,,,,AUD-024-S,Shop location,0,32
+audit-024,Prairie Shorts,Size,M,,,,,AUD-024-M,Shop location,0,76
+audit-024,Prairie Shorts,Size,L,,,,,AUD-024-L,Shop location,0,118
+audit-025,Desert Backpack,Size,S,,,,,AUD-025-S,Shop location,0,103
+audit-025,Desert Backpack,Size,M,,,,,AUD-025-M,Shop location,0,6
+audit-026,Harbor Socks,Title,Default Title,,,,,AUD-026,Shop location,0,85
+audit-027,Ridge Tote,Size,S,,,,,AUD-027-S,Shop location,0,105
+audit-027,Ridge Tote,Size,M,,,,,AUD-027-M,Shop location,0,25
+audit-028,Alpine Beanie,Title,Default Title,,,,,AUD-028,Shop location,0,127
+audit-029,Urban Belt,Title,Default Title,,,,,AUD-029,Shop location,0,140
+audit-030,Desert Belt,Title,Default Title,,,,,AUD-030,Shop location,0,54
+audit-031,Harbor Jacket,Title,Default Title,,,,,AUD-031,Shop location,0,91
+audit-032,Dune Beanie,Title,Default Title,,,,,AUD-032,Shop location,0,85
+audit-033,Harbor Cap,Title,Default Title,,,,,AUD-033,Shop location,0,103
+audit-034,Trail Beanie,Title,Default Title,,,,,AUD-034,Shop location,0,45
+audit-035,Harbor Bottle,Title,Default Title,,,,,AUD-035,Shop location,0,69
+audit-036,Dune Scarf,Size,S,,,,,AUD-036-S,Shop location,0,65
+audit-036,Dune Scarf,Size,M,,,,,AUD-036-M,Shop location,0,86
+audit-037,Dune Gloves,Title,Default Title,,,,,AUD-037,Shop location,0,107
+audit-038,Desert Cap,Size,S,,,,,AUD-038-S,Shop location,0,122
+audit-038,Desert Cap,Size,M,,,,,AUD-038-M,Shop location,0,124
+audit-038,Desert Cap,Size,L,,,,,AUD-038-L,Shop location,0,4
+audit-038,Desert Cap,Size,XL,,,,,AUD-038-XL,Shop location,0,57
+audit-039,Urban Scarf,Title,Default Title,,,,,AUD-039,Shop location,0,31
+audit-040,Coastal Jacket,Title,Default Title,,,,,AUD-040,Shop location,0,0
+audit-041,Summit Vest,Title,Default Title,,,,,AUD-041,Shop location,0,5
+audit-042,Harbor Shorts,Title,Default Title,,,,,,Shop location,0,54
+audit-043,Ridge Vest,Title,Default Title,,,,,AUD-043,Shop location,0,118
+audit-044,Harbor Tee,Size,S,,,,,AUD-044-S,Shop location,0,71
+audit-044,Harbor Tee,Size,M,,,,,AUD-044-M,Shop location,0,95
+audit-044,Harbor Tee,Size,L,,,,,AUD-044-L,Shop location,0,143
+audit-045,Dune Jacket,Title,Default Title,,,,,AUD-045,Shop location,0,49
+audit-046,Ridge Bottle,Title,Default Title,,,,,,Shop location,0,3
+audit-047,Prairie Tee,Title,Default Title,,,,,AUD-047,Shop location,0,40
+audit-048,Summit Jacket,Title,Default Title,,,,,AUD-048,Shop location,0,57
+audit-049,Urban Socks,Title,Default Title,,,,,AUD-049,Shop location,0,53
+audit-050,Trail Scarf,Title,Default Title,,,,,AUD-050,Shop location,0,44
+audit-051,Ridge Gloves,Title,Default Title,,,,,AUD-051,Shop location,0,80
+audit-052,Summit Socks,Title,Default Title,,,,,AUD-052,Shop location,0,146
+audit-053,Canyon Cap,Title,Default Title,,,,,AUD-053,Shop location,0,134
+audit-054,Ridge Jacket,Title,Default Title,,,,,AUD-054,Shop location,0,144
+audit-055,Canyon Belt,Size,S,,,,,AUD-055-S,Shop location,0,28
+audit-055,Canyon Belt,Size,M,,,,,AUD-055-M,Shop location,0,70
+audit-056,Summit Bottle,Title,Default Title,,,,,AUD-056,Shop location,0,12
+audit-057,Ridge Shorts,Title,Default Title,,,,,AUD-057,Shop location,0,141
+audit-058,Classic Belt,Title,Default Title,,,,,AUD-058,Shop location,0,132
+audit-059,Trail Tote,Title,Default Title,,,,,AUD-059,Shop location,0,121
+audit-060,Urban Beanie,Title,Default Title,,,,,AUD-060,Shop location,0,88
+audit-061,Desert Vest,Title,Default Title,,,,,AUD-061,Shop location,0,89
+audit-062,Harbor Hoodie,Title,Default Title,,,,,AUD-062,Shop location,0,123
+audit-063,Canyon Socks,Size,S,,,,,AUD-063-S,Shop location,0,126
+audit-063,Canyon Socks,Size,M,,,,,AUD-063-M,Shop location,0,65
+audit-063,Canyon Socks,Size,L,,,,,AUD-063-L,Shop location,0,126
+audit-063,Canyon Socks,Size,XL,,,,,,Shop location,0,6
+audit-064,Dune Belt,Title,Default Title,,,,,AUD-064,Shop location,0,94
+audit-065,Alpine Tote,Title,Default Title,,,,,AUD-065,Shop location,0,120
+audit-066,Classic Gloves,Title,Default Title,,,,,AUD-066,Shop location,0,95
+audit-067,Classic Backpack,Size,S,,,,,AUD-067-S,Shop location,0,132
+audit-067,Classic Backpack,Size,M,,,,,AUD-067-M,Shop location,0,103
+audit-067,Classic Backpack,Size,L,,,,,AUD-067-L,Shop location,0,56
+audit-067,Classic Backpack,Size,XL,,,,,AUD-067-XL,Shop location,0,14
+audit-068,Urban Hoodie,Size,S,,,,,AUD-068-S,Shop location,0,106
+audit-068,Urban Hoodie,Size,M,,,,,AUD-068-M,Shop location,0,131
+audit-068,Urban Hoodie,Size,L,,,,,AUD-068-L,Shop location,0,137
+audit-069,Urban Tote,Title,Default Title,,,,,AUD-069,Shop location,0,77
+audit-070,Prairie Socks,Size,S,,,,,AUD-070-S,Shop location,0,24
+audit-070,Prairie Socks,Size,M,,,,,AUD-070-M,Shop location,0,134
+audit-070,Prairie Socks,Size,L,,,,,AUD-070-L,Shop location,0,84
+audit-071,Summit Scarf,Size,S,,,,,AUD-071-S,Shop location,0,82
+audit-071,Summit Scarf,Size,M,,,,,AUD-071-M,Shop location,0,87
+audit-072,Alpine Jacket,Title,Default Title,,,,,AUD-072,Shop location,0,47
+audit-073,Alpine Belt,Title,Default Title,,,,,,Shop location,0,144
+audit-074,Desert Hoodie,Title,Default Title,,,,,AUD-074,Shop location,0,45
+audit-075,Desert Gloves,Title,Default Title,,,,,AUD-075,Shop location,0,66
+audit-076,Urban Shorts,Title,Default Title,,,,,AUD-076,Shop location,0,134
+audit-077,Desert Socks,Size,S,,,,,AUD-077-S,Shop location,0,28
+audit-077,Desert Socks,Size,M,,,,,,Shop location,0,55
+audit-077,Desert Socks,Size,L,,,,,AUD-077-L,Shop location,0,119
+audit-078,Canyon Backpack,Title,Default Title,,,,,AUD-078,Shop location,0,54
+audit-079,Urban Gloves,Size,S,,,,,AUD-079-S,Shop location,0,131
+audit-079,Urban Gloves,Size,M,,,,,AUD-079-M,Shop location,0,33
+audit-080,Coastal Scarf,Title,Default Title,,,,,AUD-080,Shop location,0,55
+audit-081,Alpine Cap,Title,Default Title,,,,,AUD-081,Shop location,0,70
+audit-082,Coastal Bottle,Size,S,,,,,AUD-082-S,Shop location,0,126
+audit-082,Coastal Bottle,Size,M,,,,,AUD-082-M,Shop location,0,144
+audit-083,Prairie Beanie,Size,S,,,,,AUD-083-S,Shop location,0,84
+audit-083,Prairie Beanie,Size,M,,,,,AUD-083-M,Shop location,0,101
+audit-083,Prairie Beanie,Size,L,,,,,AUD-083-L,Shop location,0,139
+audit-083,Prairie Beanie,Size,XL,,,,,AUD-083-XL,Shop location,0,39
+audit-084,Trail Backpack,Title,Default Title,,,,,AUD-084,Shop location,0,142
+audit-085,Urban Backpack,Title,Default Title,,,,,AUD-085,Shop location,0,40
+audit-086,Prairie Backpack,Title,Default Title,,,,,AUD-086,Shop location,0,37
+audit-087,Trail Gloves,Title,Default Title,,,,,AUD-087,Shop location,0,147
+audit-088,Coastal Gloves,Size,S,,,,,AUD-088-S,Shop location,0,9
+audit-088,Coastal Gloves,Size,M,,,,,AUD-088-M,Shop location,0,77
+audit-088,Coastal Gloves,Size,L,,,,,AUD-088-L,Shop location,0,46
+audit-088,Coastal Gloves,Size,XL,,,,,,Shop location,0,69
+audit-089,Dune Socks,Size,S,,,,,AUD-089-S,Shop location,0,92
+audit-089,Dune Socks,Size,M,,,,,AUD-089-M,Shop location,0,118
+audit-089,Dune Socks,Size,L,,,,,AUD-089-L,Shop location,0,48
+audit-089,Dune Socks,Size,XL,,,,,AUD-089-XL,Shop location,0,14
+audit-090,Dune Shorts,Title,Default Title,,,,,AUD-090,Shop location,0,48
+audit-091,Classic Scarf,Title,Default Title,,,,,AUD-091,Shop location,0,40
+audit-092,Ridge Backpack,Title,Default Title,,,,,,Shop location,0,126
+audit-093,Harbor Backpack,Title,Default Title,,,,,AUD-093,Shop location,0,8
+audit-094,Prairie Gloves,Title,Default Title,,,,,,Shop location,0,57
+audit-095,Alpine Backpack,Title,Default Title,,,,,AUD-095,Shop location,0,94
+audit-096,Trail Bottle,Title,Default Title,,,,,AUD-096,Shop location,0,24
+audit-097,Prairie Tote,Size,S,,,,,AUD-097-S,Shop location,0,105
+audit-097,Prairie Tote,Size,M,,,,,AUD-097-M,Shop location,0,84
+audit-097,Prairie Tote,Size,L,,,,,AUD-097-L,Shop location,0,131
+audit-098,Alpine Vest,Title,Default Title,,,,,AUD-098,Shop location,0,121
+audit-099,Classic Beanie,Title,Default Title,,,,,AUD-099,Shop location,0,15
+audit-100,Coastal Vest,Title,Default Title,,,,,AUD-100,Shop location,0,91
+audit-101,Coastal Tote,Size,S,,,,,AUD-101-S,Shop location,0,66
+audit-101,Coastal Tote,Size,M,,,,,AUD-101-M,Shop location,0,8
+audit-101,Coastal Tote,Size,L,,,,,AUD-101-L,Shop location,0,129
+audit-102,Prairie Belt,Title,Default Title,,,,,AUD-102,Shop location,0,24
+audit-103,Canyon Bottle,Title,Default Title,,,,,AUD-103,Shop location,0,111
+audit-104,Dune Hoodie,Title,Default Title,,,,,AUD-104,Shop location,0,44
+audit-105,Urban Tee,Title,Default Title,,,,,AUD-105,Shop location,0,58
+audit-106,Coastal Shorts,Size,S,,,,,AUD-106-S,Shop location,0,127
+audit-106,Coastal Shorts,Size,M,,,,,AUD-106-M,Shop location,0,96
+audit-106,Coastal Shorts,Size,L,,,,,AUD-106-L,Shop location,0,138
+audit-107,Summit Cap,Title,Default Title,,,,,AUD-107,Shop location,0,109
+audit-108,Coastal Hoodie,Title,Default Title,,,,,AUD-108,Shop location,0,93
+audit-109,Canyon Hoodie,Title,Default Title,,,,,AUD-109,Shop location,0,54
+audit-110,Alpine Shorts,Title,Default Title,,,,,AUD-110,Shop location,0,113
+audit-111,Harbor Gloves,Title,Default Title,,,,,,Shop location,0,124
+audit-112,Dune Bottle,Size,S,,,,,,Shop location,0,55
+audit-112,Dune Bottle,Size,M,,,,,AUD-112-M,Shop location,0,51
+audit-112,Dune Bottle,Size,L,,,,,AUD-112-L,Shop location,0,21
+audit-112,Dune Bottle,Size,XL,,,,,,Shop location,0,41
+audit-113,Desert Tote,Title,Default Title,,,,,AUD-113,Shop location,0,45
+audit-114,Trail Jacket,Title,Default Title,,,,,AUD-114,Shop location,0,111
+audit-115,Harbor Scarf,Size,S,,,,,AUD-115-S,Shop location,0,110
+audit-115,Harbor Scarf,Size,M,,,,,AUD-115-M,Shop location,0,0
+audit-116,Coastal Socks,Title,Default Title,,,,,AUD-116,Shop location,0,69
+audit-117,Canyon Jacket,Title,Default Title,,,,,AUD-117,Shop location,0,94
+audit-118,Alpine Hoodie,Title,Default Title,,,,,AUD-118,Shop location,0,3
+audit-119,Desert Bottle,Title,Default Title,,,,,AUD-119,Shop location,0,134
+audit-120,Summit Tote,Size,S,,,,,AUD-120-S,Shop location,0,70
+audit-120,Summit Tote,Size,M,,,,,,Shop location,0,0
+audit-120,Summit Tote,Size,L,,,,,AUD-120-L,Shop location,0,36
+audit-120,Summit Tote,Size,XL,,,,,AUD-120-XL,Shop location,0,37
+audit-121,Classic Shorts,Title,Default Title,,,,,AUD-121,Shop location,0,57
+audit-122,Summit Belt,Title,Default Title,,,,,AUD-122,Shop location,0,117
+audit-123,Coastal Beanie,Title,Default Title,,,,,AUD-123,Shop location,0,13
+audit-124,Summit Gloves,Title,Default Title,,,,,AUD-124,Shop location,0,144
+audit-125,Summit Tee,Title,Default Title,,,,,AUD-125,Shop location,0,66
+audit-126,Ridge Hoodie,Title,Default Title,,,,,AUD-126,Shop location,0,21
+audit-127,Harbor Vest,Title,Default Title,,,,,AUD-127,Shop location,0,120
+audit-128,Classic Hoodie,Title,Default Title,,,,,AUD-128,Shop location,0,140
+audit-129,Canyon Tote,Title,Default Title,,,,,,Shop location,0,135
+audit-130,Urban Cap,Title,Default Title,,,,,AUD-130,Shop location,0,136
+audit-131,Desert Tee,Title,Default Title,,,,,AUD-131,Shop location,0,71
+audit-132,Prairie Cap,Title,Default Title,,,,,AUD-132,Shop location,0,10
+audit-133,Canyon Gloves,Title,Default Title,,,,,AUD-133,Shop location,0,11
+audit-134,Trail Cap,Title,Default Title,,,,,AUD-134,Shop location,0,136
+audit-135,Ridge Beanie,Title,Default Title,,,,,AUD-135,Shop location,0,145
+audit-136,Trail Tee,Title,Default Title,,,,,AUD-136,Shop location,0,0
+audit-137,Dune Vest,Title,Default Title,,,,,AUD-137,Shop location,0,148
+audit-138,Ridge Belt,Title,Default Title,,,,,AUD-138,Shop location,0,0
+audit-139,Ridge Socks,Title,Default Title,,,,,AUD-139,Shop location,0,0
+audit-140,Ridge Tee,Title,Default Title,,,,,AUD-140,Shop location,0,82
+audit-141,Coastal Cap,Title,Default Title,,,,,AUD-141,Shop location,0,7
+audit-142,Harbor Beanie,Title,Default Title,,,,,AUD-142,Shop location,0,101
+audit-143,Summit Shorts,Title,Default Title,,,,,AUD-143,Shop location,0,44
+audit-144,Canyon Vest,Title,Default Title,,,,,AUD-144,Shop location,0,66
+audit-145,Dune Backpack,Title,Default Title,,,,,AUD-145,Shop location,0,12
+audit-146,Classic Bottle,Title,Default Title,,,,,AUD-146,Shop location,0,19
+audit-147,Desert Beanie,Title,Default Title,,,,,AUD-147,Shop location,0,134
+audit-148,Trail Shorts,Title,Default Title,,,,,AUD-148,Shop location,0,86
+audit-149,Canyon Beanie,Size,S,,,,,AUD-149-S,Shop location,0,40
+audit-149,Canyon Beanie,Size,M,,,,,AUD-149-M,Shop location,0,121
+audit-150,Urban Jacket,Title,Default Title,,,,,AUD-150,Shop location,0,83
+audit-151,Trail Hoodie,Title,Default Title,,,,,AUD-151,Shop location,0,120
+audit-152,Classic Jacket,Title,Default Title,,,,,AUD-152,Shop location,0,0
+audit-153,Coastal Tee,Title,Default Title,,,,,AUD-153,Shop location,0,62
+audit-154,Desert Jacket,Title,Default Title,,,,,AUD-154,Shop location,0,81
+audit-155,Prairie Vest,Title,Default Title,,,,,AUD-155,Shop location,0,11
+audit-156,Desert Scarf,Size,S,,,,,AUD-156-S,Shop location,0,64
+audit-156,Desert Scarf,Size,M,,,,,AUD-156-M,Shop location,0,48
+audit-156,Desert Scarf,Size,L,,,,,AUD-156-L,Shop location,0,49
+audit-156,Desert Scarf,Size,XL,,,,,AUD-156-XL,Shop location,0,30
+audit-157,Prairie Jacket,Size,S,,,,,AUD-157-S,Shop location,0,122
+audit-157,Prairie Jacket,Size,M,,,,,AUD-157-M,Shop location,0,98
+audit-157,Prairie Jacket,Size,L,,,,,AUD-157-L,Shop location,0,0
+audit-158,Prairie Hoodie,Title,Default Title,,,,,AUD-158,Shop location,0,128
+audit-159,Harbor Tote,Title,Default Title,,,,,AUD-159,Shop location,0,99
+audit-160,Prairie Bottle,Title,Default Title,,,,,AUD-160,Shop location,0,0
+audit-161,Dune Tee,Title,Default Title,,,,,AUD-161,Shop location,0,120
+audit-162,Prairie Scarf,Title,Default Title,,,,,AUD-162,Shop location,0,36
+audit-163,Coastal Backpack,Title,Default Title,,,,,AUD-163,Shop location,0,62
+audit-164,Trail Belt,Title,Default Title,,,,,AUD-164,Shop location,0,81
+audit-165,Alpine Tee,Title,Default Title,,,,,AUD-165,Shop location,0,111
+audit-166,Alpine Bottle,Title,Default Title,,,,,,Shop location,0,149
+audit-167,Canyon Shorts,Size,S,,,,,AUD-167-S,Shop location,0,91
+audit-167,Canyon Shorts,Size,M,,,,,AUD-167-M,Shop location,0,134
+audit-167,Canyon Shorts,Size,L,,,,,AUD-167-L,Shop location,0,136
+audit-168,Urban Bottle,Size,S,,,,,AUD-168-S,Shop location,0,145
+audit-168,Urban Bottle,Size,M,,,,,AUD-168-M,Shop location,0,0
+audit-168,Urban Bottle,Size,L,,,,,AUD-168-L,Shop location,0,20
+audit-168,Urban Bottle,Size,XL,,,,,AUD-168-XL,Shop location,0,44
+audit-169,Alpine Gloves II,Title,Default Title,,,,,AUD-169,Shop location,0,104
+audit-170,Canyon Scarf II,Title,Default Title,,,,,AUD-170,Shop location,0,29
+audit-171,Canyon Tee II,Title,Default Title,,,,,AUD-171,Shop location,0,0
+audit-172,Summit Hoodie II,Title,Default Title,,,,,AUD-172,Shop location,0,107
+audit-173,Classic Vest II,Size,S,,,,,AUD-173-S,Shop location,0,2
+audit-173,Classic Vest II,Size,M,,,,,AUD-173-M,Shop location,0,51
+audit-173,Classic Vest II,Size,L,,,,,AUD-173-L,Shop location,0,68
+audit-173,Classic Vest II,Size,XL,,,,,AUD-173-XL,Shop location,0,44
+audit-174,Dune Tote II,Title,Default Title,,,,,AUD-174,Shop location,0,69
+audit-175,Coastal Belt II,Title,Default Title,,,,,AUD-175,Shop location,0,22
+audit-176,Dune Cap II,Title,Default Title,,,,,AUD-176,Shop location,0,43
+audit-177,Ridge Scarf II,Title,Default Title,,,,,AUD-177,Shop location,0,56
+audit-178,Classic Tee II,Size,S,,,,,AUD-178-S,Shop location,0,144
+audit-178,Classic Tee II,Size,M,,,,,AUD-178-M,Shop location,0,115
+audit-178,Classic Tee II,Size,L,,,,,AUD-178-L,Shop location,0,10
+audit-178,Classic Tee II,Size,XL,,,,,AUD-178-XL,Shop location,0,120
+audit-179,Alpine Scarf II,Title,Default Title,,,,,AUD-179,Shop location,0,132
+audit-180,Classic Cap II,Title,Default Title,,,,,AUD-180,Shop location,0,9
+audit-181,Trail Socks II,Size,S,,,,,AUD-181-S,Shop location,0,124
+audit-181,Trail Socks II,Size,M,,,,,AUD-181-M,Shop location,0,75
+audit-182,Classic Tote II,Title,Default Title,,,,,AUD-182,Shop location,0,44
+audit-183,Ridge Cap II,Title,Default Title,,,,,AUD-183,Shop location,0,17
+audit-184,Classic Socks II,Title,Default Title,,,,,AUD-184,Shop location,0,53
+audit-185,Summit Backpack II,Title,Default Title,,,,,AUD-185,Shop location,0,74
+audit-186,Alpine Socks II,Title,Default Title,,,,,AUD-186,Shop location,0,12
+audit-187,Harbor Belt II,Title,Default Title,,,,,AUD-187,Shop location,0,67
+audit-188,Summit Beanie II,Title,Default Title,,,,,AUD-188,Shop location,0,140
+audit-189,Trail Vest II,Title,Default Title,,,,,AUD-189,Shop location,0,141
+audit-190,Urban Vest II,Title,Default Title,,,,,AUD-190,Shop location,0,133
+audit-191,Desert Shorts II,Title,Default Title,,,,,AUD-191,Shop location,0,139
+audit-192,Prairie Shorts II,Title,Default Title,,,,,,Shop location,0,127
+audit-193,Desert Backpack II,Size,S,,,,,AUD-193-S,Shop location,0,14
+audit-193,Desert Backpack II,Size,M,,,,,AUD-193-M,Shop location,0,91
+audit-194,Harbor Socks II,Title,Default Title,,,,,AUD-194,Shop location,0,138
+audit-195,Ridge Tote II,Title,Default Title,,,,,AUD-195,Shop location,0,119
+audit-196,Alpine Beanie II,Title,Default Title,,,,,AUD-196,Shop location,0,63
+audit-197,Urban Belt II,Title,Default Title,,,,,AUD-197,Shop location,0,4
+audit-198,Desert Belt II,Title,Default Title,,,,,AUD-198,Shop location,0,99
+audit-199,Harbor Jacket II,Title,Default Title,,,,,AUD-199,Shop location,0,23
+audit-200,Dune Beanie II,Size,S,,,,,AUD-200-S,Shop location,0,46
+audit-200,Dune Beanie II,Size,M,,,,,AUD-200-M,Shop location,0,61
+audit-200,Dune Beanie II,Size,L,,,,,AUD-200-L,Shop location,0,144
+audit-200,Dune Beanie II,Size,XL,,,,,AUD-200-XL,Shop location,0,130
+audit-201,Harbor Cap II,Title,Default Title,,,,,AUD-201,Shop location,0,87
+audit-202,Trail Beanie II,Title,Default Title,,,,,AUD-202,Shop location,0,72
+audit-203,Harbor Bottle II,Title,Default Title,,,,,AUD-203,Shop location,0,44
+audit-204,Dune Scarf II,Title,Default Title,,,,,AUD-204,Shop location,0,24
+audit-205,Dune Gloves II,Size,S,,,,,AUD-205-S,Shop location,0,89
+audit-205,Dune Gloves II,Size,M,,,,,AUD-205-M,Shop location,0,34
+audit-205,Dune Gloves II,Size,L,,,,,AUD-205-L,Shop location,0,133
+audit-206,Desert Cap II,Title,Default Title,,,,,AUD-206,Shop location,0,63
+audit-207,Urban Scarf II,Title,Default Title,,,,,AUD-207,Shop location,0,122
+audit-208,Coastal Jacket II,Title,Default Title,,,,,AUD-208,Shop location,0,39
+audit-209,Summit Vest II,Title,Default Title,,,,,AUD-209,Shop location,0,83
+audit-210,Harbor Shorts II,Title,Default Title,,,,,AUD-210,Shop location,0,127
+audit-211,Ridge Vest II,Size,S,,,,,AUD-211-S,Shop location,0,30
+audit-211,Ridge Vest II,Size,M,,,,,AUD-211-M,Shop location,0,1
+audit-212,Harbor Tee II,Title,Default Title,,,,,AUD-212,Shop location,0,0
+audit-213,Dune Jacket II,Title,Default Title,,,,,AUD-213,Shop location,0,128
+audit-214,Ridge Bottle II,Size,S,,,,,AUD-214-S,Shop location,0,108
+audit-214,Ridge Bottle II,Size,M,,,,,AUD-214-M,Shop location,0,146
+audit-214,Ridge Bottle II,Size,L,,,,,AUD-214-L,Shop location,0,132
+audit-215,Prairie Tee II,Title,Default Title,,,,,AUD-215,Shop location,0,22
+audit-216,Summit Jacket II,Title,Default Title,,,,,AUD-216,Shop location,0,6
+audit-217,Urban Socks II,Title,Default Title,,,,,AUD-217,Shop location,0,65
+audit-218,Trail Scarf II,Title,Default Title,,,,,AUD-218,Shop location,0,0
+audit-219,Ridge Gloves II,Title,Default Title,,,,,AUD-219,Shop location,0,63
+audit-220,Summit Socks II,Title,Default Title,,,,,AUD-220,Shop location,0,148
+audit-221,Canyon Cap II,Title,Default Title,,,,,,Shop location,0,146
+audit-222,Ridge Jacket II,Title,Default Title,,,,,AUD-222,Shop location,0,79
+audit-223,Canyon Belt II,Size,S,,,,,,Shop location,0,137
+audit-223,Canyon Belt II,Size,M,,,,,AUD-223-M,Shop location,0,8
+audit-224,Summit Bottle II,Title,Default Title,,,,,AUD-224,Shop location,0,45
+audit-225,Ridge Shorts II,Title,Default Title,,,,,,Shop location,0,118
+audit-226,Classic Belt II,Title,Default Title,,,,,AUD-226,Shop location,0,25
+audit-227,Trail Tote II,Title,Default Title,,,,,AUD-227,Shop location,0,121
+audit-228,Urban Beanie II,Title,Default Title,,,,,,Shop location,0,41
+audit-229,Desert Vest II,Title,Default Title,,,,,AUD-229,Shop location,0,0
+audit-230,Harbor Hoodie II,Title,Default Title,,,,,AUD-230,Shop location,0,123
+audit-231,Canyon Socks II,Size,S,,,,,AUD-231-S,Shop location,0,0
+audit-231,Canyon Socks II,Size,M,,,,,AUD-231-M,Shop location,0,2
+audit-231,Canyon Socks II,Size,L,,,,,AUD-231-L,Shop location,0,136
+audit-232,Dune Belt II,Size,S,,,,,AUD-232-S,Shop location,0,38
+audit-232,Dune Belt II,Size,M,,,,,AUD-232-M,Shop location,0,65
+audit-233,Alpine Tote II,Title,Default Title,,,,,AUD-233,Shop location,0,114
+audit-234,Classic Gloves II,Title,Default Title,,,,,AUD-234,Shop location,0,76
+audit-235,Classic Backpack II,Size,S,,,,,AUD-235-S,Shop location,0,98
+audit-235,Classic Backpack II,Size,M,,,,,AUD-235-M,Shop location,0,2
+audit-235,Classic Backpack II,Size,L,,,,,AUD-235-L,Shop location,0,32
+audit-235,Classic Backpack II,Size,XL,,,,,AUD-235-XL,Shop location,0,59
+audit-236,Urban Hoodie II,Title,Default Title,,,,,AUD-236,Shop location,0,84
+audit-237,Urban Tote II,Title,Default Title,,,,,AUD-237,Shop location,0,18
+audit-238,Prairie Socks II,Title,Default Title,,,,,,Shop location,0,99
+audit-239,Summit Scarf II,Size,S,,,,,AUD-239-S,Shop location,0,113
+audit-239,Summit Scarf II,Size,M,,,,,AUD-239-M,Shop location,0,114
+audit-240,Alpine Jacket II,Title,Default Title,,,,,AUD-240,Shop location,0,77
+audit-241,Alpine Belt II,Title,Default Title,,,,,AUD-241,Shop location,0,115
+audit-242,Desert Hoodie II,Title,Default Title,,,,,AUD-242,Shop location,0,0
+audit-243,Desert Gloves II,Size,S,,,,,AUD-243-S,Shop location,0,76
+audit-243,Desert Gloves II,Size,M,,,,,AUD-243-M,Shop location,0,44
+audit-243,Desert Gloves II,Size,L,,,,,AUD-243-L,Shop location,0,141
+audit-244,Urban Shorts II,Size,S,,,,,AUD-244-S,Shop location,0,53
+audit-244,Urban Shorts II,Size,M,,,,,AUD-244-M,Shop location,0,76
+audit-244,Urban Shorts II,Size,L,,,,,AUD-244-L,Shop location,0,104
+audit-245,Desert Socks II,Title,Default Title,,,,,AUD-245,Shop location,0,0
+audit-246,Canyon Backpack II,Title,Default Title,,,,,AUD-246,Shop location,0,26
+audit-247,Urban Gloves II,Title,Default Title,,,,,AUD-247,Shop location,0,99
+audit-248,Coastal Scarf II,Size,S,,,,,AUD-248-S,Shop location,0,86
+audit-248,Coastal Scarf II,Size,M,,,,,AUD-248-M,Shop location,0,138
+audit-248,Coastal Scarf II,Size,L,,,,,AUD-248-L,Shop location,0,54
+audit-248,Coastal Scarf II,Size,XL,,,,,AUD-248-XL,Shop location,0,141
+audit-249,Alpine Cap II,Title,Default Title,,,,,AUD-249,Shop location,0,0
+audit-250,Coastal Bottle II,Title,Default Title,,,,,AUD-250,Shop location,0,97
+audit-251,Prairie Beanie II,Title,Default Title,,,,,AUD-251,Shop location,0,68
+audit-252,Trail Backpack II,Title,Default Title,,,,,AUD-252,Shop location,0,0
+audit-253,Urban Backpack II,Title,Default Title,,,,,AUD-253,Shop location,0,45
+audit-254,Prairie Backpack II,Title,Default Title,,,,,AUD-254,Shop location,0,78
+audit-255,Trail Gloves II,Size,S,,,,,AUD-255-S,Shop location,0,51
+audit-255,Trail Gloves II,Size,M,,,,,AUD-255-M,Shop location,0,44
+audit-256,Coastal Gloves II,Title,Default Title,,,,,AUD-256,Shop location,0,111
+audit-257,Dune Socks II,Title,Default Title,,,,,AUD-257,Shop location,0,149
+audit-258,Dune Shorts II,Title,Default Title,,,,,AUD-258,Shop location,0,114
+audit-259,Classic Scarf II,Size,S,,,,,,Shop location,0,128
+audit-259,Classic Scarf II,Size,M,,,,,AUD-259-M,Shop location,0,16
+audit-260,Ridge Backpack II,Size,S,,,,,AUD-260-S,Shop location,0,79
+audit-260,Ridge Backpack II,Size,M,,,,,AUD-260-M,Shop location,0,10
+audit-260,Ridge Backpack II,Size,L,,,,,AUD-260-L,Shop location,0,132
+audit-260,Ridge Backpack II,Size,XL,,,,,AUD-260-XL,Shop location,0,144
+audit-261,Harbor Backpack II,Title,Default Title,,,,,,Shop location,0,106
+audit-262,Prairie Gloves II,Size,S,,,,,AUD-262-S,Shop location,0,137
+audit-262,Prairie Gloves II,Size,M,,,,,AUD-262-M,Shop location,0,131
+audit-262,Prairie Gloves II,Size,L,,,,,AUD-262-L,Shop location,0,130
+audit-263,Alpine Backpack II,Title,Default Title,,,,,AUD-263,Shop location,0,90
+audit-264,Trail Bottle II,Title,Default Title,,,,,AUD-264,Shop location,0,100
+audit-265,Prairie Tote II,Size,S,,,,,AUD-265-S,Shop location,0,57
+audit-265,Prairie Tote II,Size,M,,,,,AUD-265-M,Shop location,0,108
+audit-265,Prairie Tote II,Size,L,,,,,AUD-265-L,Shop location,0,110
+audit-265,Prairie Tote II,Size,XL,,,,,AUD-265-XL,Shop location,0,94
+audit-266,Alpine Vest II,Title,Default Title,,,,,,Shop location,0,63
+audit-267,Classic Beanie II,Size,S,,,,,AUD-267-S,Shop location,0,150
+audit-267,Classic Beanie II,Size,M,,,,,AUD-267-M,Shop location,0,92
+audit-267,Classic Beanie II,Size,L,,,,,AUD-267-L,Shop location,0,8
+audit-268,Coastal Vest II,Title,Default Title,,,,,AUD-268,Shop location,0,61
+audit-269,Coastal Tote II,Title,Default Title,,,,,AUD-269,Shop location,0,45
+audit-270,Prairie Belt II,Title,Default Title,,,,,,Shop location,0,101
+audit-271,Canyon Bottle II,Title,Default Title,,,,,AUD-271,Shop location,0,41
+audit-272,Dune Hoodie II,Size,S,,,,,AUD-272-S,Shop location,0,132
+audit-272,Dune Hoodie II,Size,M,,,,,AUD-272-M,Shop location,0,96
+audit-272,Dune Hoodie II,Size,L,,,,,AUD-272-L,Shop location,0,140
+audit-272,Dune Hoodie II,Size,XL,,,,,AUD-272-XL,Shop location,0,26
+audit-273,Urban Tee II,Title,Default Title,,,,,AUD-273,Shop location,0,56
+audit-274,Coastal Shorts II,Title,Default Title,,,,,AUD-274,Shop location,0,32
+audit-275,Summit Cap II,Title,Default Title,,,,,AUD-275,Shop location,0,0
+audit-276,Coastal Hoodie II,Title,Default Title,,,,,AUD-276,Shop location,0,133
+audit-277,Canyon Hoodie II,Title,Default Title,,,,,AUD-277,Shop location,0,26
+audit-278,Alpine Shorts II,Title,Default Title,,,,,AUD-278,Shop location,0,61
+audit-279,Harbor Gloves II,Size,S,,,,,AUD-279-S,Shop location,0,80
+audit-279,Harbor Gloves II,Size,M,,,,,AUD-279-M,Shop location,0,25
+audit-279,Harbor Gloves II,Size,L,,,,,AUD-279-L,Shop location,0,88
+audit-280,Dune Bottle II,Size,S,,,,,AUD-280-S,Shop location,0,39
+audit-280,Dune Bottle II,Size,M,,,,,AUD-280-M,Shop location,0,106
+audit-280,Dune Bottle II,Size,L,,,,,,Shop location,0,28
+audit-280,Dune Bottle II,Size,XL,,,,,AUD-280-XL,Shop location,0,49
+audit-281,Desert Tote II,Size,S,,,,,AUD-281-S,Shop location,0,142
+audit-281,Desert Tote II,Size,M,,,,,AUD-281-M,Shop location,0,88
+audit-281,Desert Tote II,Size,L,,,,,AUD-281-L,Shop location,0,47
+audit-281,Desert Tote II,Size,XL,,,,,AUD-281-XL,Shop location,0,23
+audit-282,Trail Jacket II,Title,Default Title,,,,,AUD-282,Shop location,0,61
+audit-283,Harbor Scarf II,Title,Default Title,,,,,AUD-283,Shop location,0,114
+audit-284,Coastal Socks II,Title,Default Title,,,,,AUD-284,Shop location,0,26
+audit-285,Canyon Jacket II,Title,Default Title,,,,,AUD-285,Shop location,0,109
+audit-286,Alpine Hoodie II,Title,Default Title,,,,,AUD-286,Shop location,0,34
+audit-287,Desert Bottle II,Title,Default Title,,,,,AUD-287,Shop location,0,6
+audit-288,Summit Tote II,Title,Default Title,,,,,AUD-288,Shop location,0,119
+audit-289,Classic Shorts II,Title,Default Title,,,,,AUD-289,Shop location,0,17
+audit-290,Summit Belt II,Title,Default Title,,,,,AUD-290,Shop location,0,128
+audit-291,Coastal Beanie II,Title,Default Title,,,,,AUD-291,Shop location,0,115
+audit-292,Summit Gloves II,Title,Default Title,,,,,AUD-292,Shop location,0,90
+audit-293,Summit Tee II,Size,S,,,,,AUD-293-S,Shop location,0,26
+audit-293,Summit Tee II,Size,M,,,,,AUD-293-M,Shop location,0,105
+audit-293,Summit Tee II,Size,L,,,,,AUD-293-L,Shop location,0,110
+audit-294,Ridge Hoodie II,Title,Default Title,,,,,AUD-294,Shop location,0,18
+audit-295,Harbor Vest II,Title,Default Title,,,,,AUD-295,Shop location,0,140
+audit-296,Classic Hoodie II,Title,Default Title,,,,,,Shop location,0,64
+audit-297,Canyon Tote II,Title,Default Title,,,,,AUD-297,Shop location,0,28
+audit-298,Urban Cap II,Title,Default Title,,,,,AUD-298,Shop location,0,44
+audit-299,Desert Tee II,Title,Default Title,,,,,AUD-299,Shop location,0,37
+audit-300-big-variants,Everyday Tech Shell,Size,XS,Color,Black,,,AUD-300-XS-BLA,Shop location,0,79
+audit-300-big-variants,Everyday Tech Shell,Size,XS,Color,Navy,,,AUD-300-XS-NAV,Shop location,0,67
+audit-300-big-variants,Everyday Tech Shell,Size,XS,Color,Olive,,,AUD-300-XS-OLI,Shop location,0,112
+audit-300-big-variants,Everyday Tech Shell,Size,XS,Color,Sand,,,AUD-300-XS-SAN,Shop location,0,27
+audit-300-big-variants,Everyday Tech Shell,Size,S,Color,Black,,,AUD-300-S-BLA,Shop location,0,58
+audit-300-big-variants,Everyday Tech Shell,Size,S,Color,Navy,,,AUD-300-S-NAV,Shop location,0,94
+audit-300-big-variants,Everyday Tech Shell,Size,S,Color,Olive,,,AUD-300-S-OLI,Shop location,0,20
+audit-300-big-variants,Everyday Tech Shell,Size,S,Color,Sand,,,AUD-300-S-SAN,Shop location,0,106
+audit-300-big-variants,Everyday Tech Shell,Size,M,Color,Black,,,AUD-300-M-BLA,Shop location,0,22
+audit-300-big-variants,Everyday Tech Shell,Size,M,Color,Navy,,,AUD-300-M-NAV,Shop location,0,148
+audit-300-big-variants,Everyday Tech Shell,Size,M,Color,Olive,,,AUD-300-M-OLI,Shop location,0,68
+audit-300-big-variants,Everyday Tech Shell,Size,M,Color,Sand,,,AUD-300-M-SAN,Shop location,0,82
+audit-300-big-variants,Everyday Tech Shell,Size,L,Color,Black,,,AUD-300-L-BLA,Shop location,0,110
+audit-300-big-variants,Everyday Tech Shell,Size,L,Color,Navy,,,AUD-300-L-NAV,Shop location,0,149
+audit-300-big-variants,Everyday Tech Shell,Size,L,Color,Olive,,,AUD-300-L-OLI,Shop location,0,80
+audit-300-big-variants,Everyday Tech Shell,Size,L,Color,Sand,,,AUD-300-L-SAN,Shop location,0,60
+audit-300-big-variants,Everyday Tech Shell,Size,XL,Color,Black,,,AUD-300-XL-BLA,Shop location,0,135
+audit-300-big-variants,Everyday Tech Shell,Size,XL,Color,Navy,,,AUD-300-XL-NAV,Shop location,0,47
+audit-300-big-variants,Everyday Tech Shell,Size,XL,Color,Olive,,,AUD-300-XL-OLI,Shop location,0,136
+audit-300-big-variants,Everyday Tech Shell,Size,XL,Color,Sand,,,AUD-300-XL-SAN,Shop location,0,108
+audit-300-big-variants,Everyday Tech Shell,Size,2XL,Color,Black,,,AUD-300-2XL-BLA,Shop location,0,65
+audit-300-big-variants,Everyday Tech Shell,Size,2XL,Color,Navy,,,,Shop location,0,9
+audit-300-big-variants,Everyday Tech Shell,Size,2XL,Color,Olive,,,AUD-300-2XL-OLI,Shop location,0,143
+audit-300-big-variants,Everyday Tech Shell,Size,2XL,Color,Sand,,,AUD-300-2XL-SAN,Shop location,0,65
+audit-300-big-variants,Everyday Tech Shell,Size,3XL,Color,Black,,,,Shop location,0,135
+audit-300-big-variants,Everyday Tech Shell,Size,3XL,Color,Navy,,,AUD-300-3XL-NAV,Shop location,0,118
+audit-300-big-variants,Everyday Tech Shell,Size,3XL,Color,Olive,,,,Shop location,0,75
+audit-300-big-variants,Everyday Tech Shell,Size,3XL,Color,Sand,,,AUD-300-3XL-SAN,Shop location,0,106

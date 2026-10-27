@@ -1,0 +1,257 @@
+{
+  "products": 300,
+  "variants": 449,
+  "expected": {
+    "empty_sku_variants": 30,
+    "zero_inventory_variants": 20,
+    "empty_description_products": 15,
+    "products_with_more_than_20_variants": 1,
+    "empty_sku_variants_beyond_first_20_of_big_product": 3
+  },
+  "big_product": {
+    "handle": "audit-300-big-variants",
+    "variants": 28
+  },
+  "empty_sku": [
+    {
+      "handle": "audit-001",
+      "option1": "Default Title"
+    },
+    {
+      "handle": "audit-042",
+      "option1": "Default Title"
+    },
+    {
+      "handle": "audit-046",
+      "option1": "Default Title"
+    },
+    {
+      "handle": "audit-063",
+      "option1": "XL"
+    },
+    {
+      "handle": "audit-073",
+      "option1": "Default Title"
+    },
+    {
+      "handle": "audit-077",
+      "option1": "M"
+    },
+    {
+      "handle": "audit-088",
+      "option1": "XL"
+    },
+    {
+      "handle": "audit-092",
+      "option1": "Default Title"
+    },
+    {
+      "handle": "audit-094",
+      "option1": "Default Title"
+    },
+    {
+      "handle": "audit-111",
+      "option1": "Default Title"
+    },
+    {
+      "handle": "audit-112",
+      "option1": "S"
+    },
+    {
+      "handle": "audit-112",
+      "option1": "XL"
+    },
+    {
+      "handle": "audit-120",
+      "option1": "M"
+    },
+    {
+      "handle": "audit-129",
+      "option1": "Default Title"
+    },
+    {
+      "handle": "audit-166",
+      "option1": "Default Title"
+    },
+    {
+      "handle": "audit-192",
+      "option1": "Default Title"
+    },
+    {
+      "handle": "audit-221",
+      "option1": "Default Title"
+    },
+    {
+      "handle": "audit-223",
+      "option1": "S"
+    },
+    {
+      "handle": "audit-225",
+      "option1": "Default Title"
+    },
+    {
+      "handle": "audit-228",
+      "option1": "Default Title"
+    },
+    {
+      "handle": "audit-238",
+      "option1": "Default Title"
+    },
+    {
+      "handle": "audit-259",
+      "option1": "S"
+    },
+    {
+      "handle": "audit-261",
+      "option1": "Default Title"
+    },
+    {
+      "handle": "audit-266",
+      "option1": "Default Title"
+    },
+    {
+      "handle": "audit-270",
+      "option1": "Default Title"
+    },
+    {
+      "handle": "audit-280",
+      "option1": "L"
+    },
+    {
+      "handle": "audit-296",
+      "option1": "Default Title"
+    },
+    {
+      "handle": "audit-300-big-variants",
+      "option1": "2XL"
+    },
+    {
+      "handle": "audit-300-big-variants",
+      "option1": "3XL"
+    },
+    {
+      "handle": "audit-300-big-variants",
+      "option1": "3XL"
+    }
+  ],
+  "zero_inventory": [
+    {
+      "handle": "audit-040",
+      "option1": "Default Title",
+      "sku": "AUD-040"
+    },
+    {
+      "handle": "audit-115",
+      "option1": "M",
+      "sku": "AUD-115-M"
+    },
+    {
+      "handle": "audit-120",
+      "option1": "M",
+      "sku": ""
+    },
+    {
+      "handle": "audit-136",
+      "option1": "Default Title",
+      "sku": "AUD-136"
+    },
+    {
+      "handle": "audit-138",
+      "option1": "Default Title",
+      "sku": "AUD-138"
+    },
+    {
+      "handle": "audit-139",
+      "option1": "Default Title",
+      "sku": "AUD-139"
+    },
+    {
+      "handle": "audit-152",
+      "option1": "Default Title",
+      "sku": "AUD-152"
+    },
+    {
+      "handle": "audit-157",
+      "option1": "L",
+      "sku": "AUD-157-L"
+    },
+    {
+      "handle": "audit-160",
+      "option1": "Default Title",
+      "sku": "AUD-160"
+    },
+    {
+      "handle": "audit-168",
+      "option1": "M",
+      "sku": "AUD-168-M"
+    },
+    {
+      "handle": "audit-171",
+      "option1": "Default Title",
+      "sku": "AUD-171"
+    },
+    {
+      "handle": "audit-212",
+      "option1": "Default Title",
+      "sku": "AUD-212"
+    },
+    {
+      "handle": "audit-218",
+      "option1": "Default Title",
+      "sku": "AUD-218"
+    },
+    {
+      "handle": "audit-229",
+      "option1": "Default Title",
+      "sku": "AUD-229"
+    },
+    {
+      "handle": "audit-231",
+      "option1": "S",
+      "sku": "AUD-231-S"
+    },
+    {
+      "handle": "audit-242",
+      "option1": "Default Title",
+      "sku": "AUD-242"
+    },
+    {
+      "handle": "audit-245",
+      "option1": "Default Title",
+      "sku": "AUD-245"
+    },
+    {
+      "handle": "audit-249",
+      "option1": "Default Title",
+      "sku": "AUD-249"
+    },
+    {
+      "handle": "audit-252",
+      "option1": "Default Title",
+      "sku": "AUD-252"
+    },
+    {
+      "handle": "audit-275",
+      "option1": "Default Title",
+      "sku": "AUD-275"
+    }
+  ],
+  "empty_description": [
+    "audit-184",
+    "audit-008",
+    "audit-183",
+    "audit-198",
+    "audit-180",
+    "audit-129",
+    "audit-246",
+    "audit-006",
+    "audit-185",
+    "audit-212",
+    "audit-239",
+    "audit-023",
+    "audit-012",
+    "audit-151",
+    "audit-277"
+  ],
+  "note": "Counts cover seeded products only (tag audit-seed). Add any baseline problems from the 17 pre-existing products separately."
+}
