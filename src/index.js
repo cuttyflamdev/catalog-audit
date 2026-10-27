@@ -2,8 +2,8 @@ import { error } from "node:console";
 import { graphql } from "./shopify.js";
 
 const query = /* GraphQL */ `
-  query ($first: Int!, $cursor: String) {
-    products(first: $first, after: $cursor) {
+  query ($first: Int!, $cursor: String, $query: String) {
+    products(first: $first, after: $cursor, query: $query) {
         edges {
             node {
                 id
@@ -41,7 +41,7 @@ function getCounts(products) {
   return { productCount, variantCount};
 }
 
-async function fetchAllProducts(pageSize) {
+async function fetchAllProducts(pageSize, search) {
   const products = [];
   let cursor = null;
   let estimate = 0;
@@ -49,7 +49,7 @@ async function fetchAllProducts(pageSize) {
 
   while (true) {
     pageNumber += 1;
-    const {data, extensions} = await graphql(query, { first: pageSize, cursor });
+    const {data, extensions} = await graphql(query, { first: pageSize, cursor, query: search });
     const page = data.products;
     const requestedQueryCost = extensions.cost.requestedQueryCost;
     const actualQueryCost = extensions.cost.actualQueryCost;
@@ -94,7 +94,7 @@ function secondsToWait(throttleStatus, needed) {
     return (needed - throttleStatus.currentlyAvailable) / throttleStatus.restoreRate
 }
 
-fetchAllProducts(250).catch((error) => {
+fetchAllProducts(250, "tag:audit-seed").catch((error) => {
     console.error(error);
     process.exitCode = 1;
 });
