@@ -61,23 +61,28 @@ function audit(products) {
   products.forEach(product => {
     const variants = product.variants.edges.map((edge) => edge.node);
     variantCount += variants.length;
+    const productFields = {
+      handle: product.handle,
+      productId: product.id,
+      productTitle: product.title,
+      productStatus: product.status
+    };
     if (isBlank(product.description)) {
-      descriptionFindings.push(product.handle);
+      descriptionFindings.push(productFields);
     }
     variants.forEach(variant => {
+      const option1 = variant.selectedOptions[0]?.value;
+      const variantFields = {
+        variantId: variant.id,
+        variantTitle: variant.title,
+        option1
+      };
       if (isBlank(variant.sku)) {
-        const skuFinding = {
-          "handle": product.handle,
-          "option1": variant.selectedOptions[0]?.value
-        };
+        const skuFinding = {...productFields, ...variantFields};
         skuFindings.push(skuFinding);
       }
       if (variant.inventoryQuantity === 0) {
-        const inventoryFinding = {
-          "handle": product.handle,
-          "option1": variant.selectedOptions[0]?.value,
-          "sku": variant.sku
-        };
+        const inventoryFinding = {...productFields, ...variantFields};
         inventoryFindings.push(inventoryFinding);
       }
     })
@@ -159,6 +164,7 @@ async function main() {
   const { productCount, variantCount, skuFindings, descriptionFindings, inventoryFindings } = audit(products);
   console.log(`Product count: ${productCount}`);
   console.log(`Variant count: ${variantCount}`);
+  console.log(JSON.stringify(skuFindings[0], null, 2));
   const skuDifferences = compare(skuFindings, manifest.empty_sku, (item) => item.handle + "|" + item.option1);
   if (skuDifferences.length === 0) {
     console.log(`empty SKUs: match (${skuFindings.length})`);
@@ -167,7 +173,8 @@ async function main() {
     console.log("empty SKUs differences:");
     console.log(skuDifferences);
   }
-  const descriptionDifferences = compare(descriptionFindings, manifest.empty_description, (item) => item );
+  const descriptionHandles = descriptionFindings.map((finding) => finding.handle);
+  const descriptionDifferences = compare(descriptionHandles, manifest.empty_description, (item) => item);
   if (descriptionDifferences.length === 0) {
     console.log(`empty description: match (${descriptionFindings.length})`);
   }
