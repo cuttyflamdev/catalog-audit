@@ -1,10 +1,10 @@
 import { graphql } from './shopify.js';
-import { readFile } from 'node:fs/promises';
+import { verifyFindings, printVerification, hasDifferences } from './verify.js';
 import { buildRows, columns } from './report.js';
 import { writeCsv, toCsv } from './csv.js';
+import { audit } from './audit.js';
 
-const text = await readFile('data/seed-manifest.json', 'utf8');
-const manifest = JSON.parse(text);
+const manifestPath = 'data/seed-manifest.json';
 const reportPath = 'output/audit-report.csv';
 
 const query = /* GraphQL */ `
@@ -45,85 +45,9 @@ const query = /* GraphQL */ `
   }
 `;
 
-// Return true if value is null or undefined
-// or when value is an empty string after trimming whitespace
-// false otherwise
-function isBlank(value) {
-  if (value === null || value === undefined) return true;
-  if (value.trim() === '') return true;
-  return false;
-}
-
-// Return lists of empty skus, description, and 0 inventory
-function audit(products) {
-  const productCount = products.length;
-  let variantCount = 0;
-  const skuFindings = [];
-  const descriptionFindings = [];
-  const inventoryFindings = [];
-  products.forEach((product) => {
-    const variants = product.variants.edges.map((edge) => edge.node);
-    variantCount += variants.length;
-    const productFields = {
-      handle: product.handle,
-      productId: product.id,
-      productTitle: product.title,
-      productStatus: product.status,
-    };
-    if (isBlank(product.description)) {
-      descriptionFindings.push(productFields);
-    }
-    variants.forEach((variant) => {
-      const option1 = variant.selectedOptions[0]?.value;
-      const variantFields = {
-        variantId: variant.id,
-        variantTitle: variant.title,
-        option1,
-      };
-      if (isBlank(variant.sku)) {
-        const skuFinding = { ...productFields, ...variantFields };
-        skuFindings.push(skuFinding);
-      }
-      if (variant.inventoryQuantity === 0) {
-        const inventoryFinding = { ...productFields, ...variantFields };
-        inventoryFindings.push(inventoryFinding);
-      }
-    });
-  });
-  return {
-    productCount,
-    variantCount,
-    skuFindings,
-    descriptionFindings,
-    inventoryFindings,
-  };
-}
-
-function compare(found, expected, keyOf) {
-  const counts = new Map();
-  found.forEach((item) => {
-    const key = keyOf(item);
-    const value = (counts.get(key) ?? 0) + 1;
-    counts.set(key, value);
-  });
-  expected.forEach((item) => {
-    const key = keyOf(item);
-    const value = (counts.get(key) ?? 0) - 1;
-    counts.set(key, value);
-  });
-  const differences = [];
-  for (const [key, count] of counts) {
-    if (count != 0) {
-      differences.push({ key, count });
-    }
-  }
-  return differences;
-}
-
 async function fetchAllProducts(pageSize, search) {
   const products = [];
   let cursor = null;
-  let estimate = 0;
   let pageNumber = 0;
 
   while (true) {
@@ -137,7 +61,6 @@ async function fetchAllProducts(pageSize, search) {
     const requestedQueryCost = extensions.cost.requestedQueryCost;
     const actualQueryCost = extensions.cost.actualQueryCost;
     const throttleStatus = extensions.cost.throttleStatus;
-    estimate = requestedQueryCost;
     console.log(`Page number: ${pageNumber}`);
     console.log(`Number of products: ${page.edges.length} `);
     console.log(`Requested query cost: ${requestedQueryCost}`);
@@ -153,7 +76,7 @@ async function fetchAllProducts(pageSize, search) {
       break;
     }
     cursor = page.pageInfo.endCursor;
-    const wait = secondsToWait(throttleStatus, estimate);
+    const wait = secondsToWait(throttleStatus, requestedQueryCost);
     await sleep(wait);
   }
   return products;
@@ -175,52 +98,19 @@ function secondsToWait(throttleStatus, needed) {
 
 async function main() {
   const products = await fetchAllProducts(250, 'tag:audit-seed');
-  const {
-    productCount,
-    variantCount,
-    skuFindings,
-    descriptionFindings,
-    inventoryFindings,
-  } = audit(products);
-  console.log(`Product count: ${productCount}`);
-  console.log(`Variant count: ${variantCount}`);
-  const skuDifferences = compare(
-    skuFindings,
-    manifest.empty_sku,
-    (item) => item.handle + '|' + item.option1,
-  );
-  if (skuDifferences.length === 0) {
-    console.log(`empty SKUs: match (${skuFindings.length})`);
-  } else {
-    console.log('empty SKUs differences:');
-    console.log(skuDifferences);
+  const auditResult = audit(products);
+  console.log(`Product count: ${auditResult.productCount}`);
+  console.log(`Variant count: ${auditResult.variantCount}`);
+  const results = await verifyFindings(auditResult, manifestPath);
+  printVerification(results);
+  if (hasDifferences(results)) {
+    process.exitCode = 1;
   }
-  const descriptionHandles = descriptionFindings.map(
-    (finding) => finding.handle,
+  const rows = buildRows(
+    auditResult.skuFindings,
+    auditResult.inventoryFindings,
+    auditResult.descriptionFindings,
   );
-  const descriptionDifferences = compare(
-    descriptionHandles,
-    manifest.empty_description,
-    (item) => item,
-  );
-  if (descriptionDifferences.length === 0) {
-    console.log(`empty description: match (${descriptionFindings.length})`);
-  } else {
-    console.log('empty description differences');
-    console.log(descriptionDifferences);
-  }
-  const inventoryDifferences = compare(
-    inventoryFindings,
-    manifest.zero_inventory,
-    (item) => item.handle + '|' + item.option1,
-  );
-  if (inventoryDifferences.length === 0) {
-    console.log(`zero inventory: match (${inventoryFindings.length})`);
-  } else {
-    console.log('zero inventory differences:');
-    console.log(inventoryDifferences);
-  }
-  const rows = buildRows(skuFindings, inventoryFindings, descriptionFindings);
   const content = toCsv(columns, rows);
   await writeCsv(reportPath, content);
   console.log(`Wrote ${rows.length} rows to ${reportPath}`);
